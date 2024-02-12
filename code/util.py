@@ -14,7 +14,7 @@ def extract_pdf_to_txt(
         filename (str): the filename of output txt file
         mode (Literal[&quot;local&quot;, &quot;online&quot;], optional): whether pdf data is stored locally or online. Defaults to "online".
     """
-    print("extracting pdf data...")
+    print(f"extracting pdf data from {filename}...")
     # read pdf data
     if mode == "online":
         loader = PyPDFLoader(url_or_pdf_name)
