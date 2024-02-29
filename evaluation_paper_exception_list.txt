@@ -1,0 +1,1087 @@
+PROTEIN MEASUREMENT WITH THE FOLIN PHENOL REAGENT
+Deep Residual Learning for Image Recognition
+Density-functional thermochemistry. III. The role of exact exchange
+Gapped BLAST and PSI-BLAST: a new generation of protein database search programs
+The Measurement of Observer Agreement for Categorical Data
+A SIMPLE METHOD FOR THE ISOLATION AND PURIFICATION OF TOTAL LIPIDES FROM ANIMAL TISSUES
+Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries
+Fuzzy sets
+A short history of<i>SHELX</i>
+Hallmarks of Cancer: The Next Generation
+Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries
+Fitting Linear Mixed-Effects Models Using<b>lme4</b>
+The Sequence Alignment/Map format and SAMtools
+Short-Term Effects of Nose-Only Cigarette Smoke Exposure on Glutathione Redox Homeostasis, Cytochrome P450 1A1/2 and Respiratory Enzyme Activities in Mice Tissues
+A new look at the statistical model identification
+Trimmomatic: a flexible trimmer for Illumina sequence data
+Fast and accurate short read alignment with Burrows–Wheeler transform
+Fast gapped-read alignment with Bowtie 2
+MEGA6: Molecular Evolutionary Genetics Analysis Version 6.0
+MEGA5: Molecular Evolutionary Genetics Analysis Using Maximum Likelihood, Evolutionary Distance, and Maximum Parsimony Methods
+Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
+MUSCLE: multiple sequence alignment with high accuracy and high throughput
+Global cancer statistics
+MEGA7: Molecular Evolutionary Genetics Analysis Version 7.0 for Bigger Datasets
+STAR: ultrafast universal RNA-seq aligner
+Equation of State Calculations by Fast Computing Machines
+The Protein Data Bank
+MicroRNAs
+<tt>edgeR</tt>: a Bioconductor package for differential expression analysis of digital gene expression data
+Crystal structure refinement with<i>SHELXL</i>
+MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability
+A new mathematical model for relative quantification in real-time RT-PCR
+The PHQ-9
+Estimation of the Concentration of Low-Density Lipoprotein Cholesterol in Plasma, Without Use of the Preparative Ultracentrifuge
+MEGA4: Molecular Evolutionary Genetics Analysis (MEGA) Software Version 4.0
+A RATING SCALE FOR DEPRESSION
+CONFIDENCE LIMITS ON PHYLOGENIES: AN APPROACH USING THE BOOTSTRAP
+<i>Coot</i>: model-building tools for molecular graphics
+The Hallmarks of Cancer
+The Pricing of Options and Corporate Liabilities
+Clinical diagnosis of Alzheimer's disease: Report of the NINCDS-ADRDA Work Group* under the auspices of Department of Health and Human Services Task Force on Alzheimer's Disease
+PLINK: A Tool Set for Whole-Genome Association and Population-Based Linkage Analyses
+The Nature of Statistical Learning Theory
+The NCEP/NCAR 40-Year Reanalysis Project
+Clustal W and Clustal X version 2.0
+PD-1 and PD-L1 Immune Checkpoint Blockade to Treat Breast Cancer
+null
+RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies
+Glove: Global Vectors for Word Representation
+MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms
+Inference of Population Structure Using Multilocus Genotype Data
+Particle mesh Ewald: An <i>N</i>⋅log(<i>N</i>) method for Ewald sums in large systems
+Classification of Surgical Complications
+The central role of the propensity score in observational studies for causal effects
+THE USE OF LEAD CITRATE AT HIGH pH AS AN ELECTRON-OPAQUE STAIN IN ELECTRON MICROSCOPY
+MrBayes 3: Bayesian phylogenetic inference under mixed models
+Cancer incidence and mortality worldwide: Sources, methods and major patterns in GLOBOCAN 2012
+The M06 suite of density functionals for main group thermochemistry, thermochemical kinetics, noncovalent interactions, excited states, and transition elements: two new functionals and systematic testing of four M06-class functionals and 12 other functionals
+Global cancer statistics, 2012
+Magnesium Replacement Improves the Metabolic Profile in Obese and Pre-Diabetic Patients with Mild-to-Moderate Chronic Kidney Disease: A 3-Month, Randomised, Double-Blind, Placebo-Controlled Study
+KEGG: Kyoto Encyclopedia of Genes and Genomes
+Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors
+Features and development of <i>Coot</i>
+Methods for Dietary Fiber, Neutral Detergent Fiber, and Nonstarch Polysaccharides in Relation to Animal Nutrition
+Clinical Characteristics of Coronavirus Disease 2019 in China
+The Effect of Intensive Treatment of Diabetes on the Development and Progression of Long-Term Complications in Insulin-Dependent Diabetes Mellitus
+A Novel Coronavirus from Patients with Pneumonia in China, 2019
+The neighbor-joining method: a new method for reconstructing phylogenetic trees.
+A new generation of Ca2+ indicators with greatly improved fluorescence properties.
+Preferred reporting items for systematic reviews and meta-analyses: the PRISMA Statement.
+Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study
+A note on two problems in connexion with graphs
+The ERA‐Interim reanalysis: configuration and performance of the data assimilation system
+<i>PHENIX</i>: a comprehensive Python-based system for macromolecular structure solution
+The Reliability of Molecular Weight Determinations by Dodecyl Sulfate-Polyacrylamide Gel Electrophoresis
+Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups
+Reporting physisorption data for gas/solid systems with special reference to the determination of surface area and porosity (Recommendations 1984)
+A quantitative description of membrane current and its application to conduction and excitation in nerve
+MRBAYES: Bayesian inference of phylogenetic trees
+Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology
+BEDTools: a flexible suite of utilities for comparing genomic features
+COPPER ENZYMES IN ISOLATED CHLOROPLASTS. POLYPHENOLOXIDASE IN <i>BETA VULGARIS</i>
+The SILVA ribosomal RNA gene database project: improved data processing and web-based tools
+MrBayes 3.2: Efficient Bayesian Phylogenetic Inference and Model Choice Across a Large Model Space
+A theory for multiresolution signal decomposition: the wavelet representation
+The “Golden Age” of Probiotics: A Systematic Review and Meta-Analysis of Randomized and Observational Studies in Preterm Infants
+High resolution two-dimensional electrophoresis of proteins.
+ggplot2
+A simple salting out procedure for extracting DNA from human nucleated cells
+Accurate spin-dependent electron liquid correlation energies for local spin density calculations: a critical analysis
+The american rheumatism association 1987 revised criteria for the classification of rheumatoid arthritis
+Detecting the number of clusters of individuals using the software <scp>structure</scp>: a simulation study
+A Brief Measure for Assessing Generalized Anxiety Disorder
+<i>SHELXT</i>– Integrated space-group and crystal-structure determination
+Numerical integration of the cartesian equations of motion of a system with constraints: molecular dynamics of n-alkanes
+<i>Phaser</i>crystallographic software
+Induction of Pluripotent Stem Cells from Adult Human Fibroblasts by Defined Factors
+The Positive and Negative Syndrome Scale (PANSS) for Schizophrenia
+THE COLORIMETRIC DETERMINATION OF PHOSPHORUS
+SMOTE: Synthetic Minority Over-sampling Technique
+MicroRNAs: Target Recognition and Regulatory Functions
+Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus–Infected Pneumonia in Wuhan, China
+World Medical Association Declaration of Helsinki
+Introducing mothur: Open-Source, Platform-Independent, Community-Supported Software for Describing and Comparing Microbial Communities
+Radiotherapy plus Concomitant and Adjuvant Temozolomide for Glioblastoma
+Frailty in Older Adults: Evidence for a Phenotype
+Search and clustering orders of magnitude faster than BLAST
+Reduction in the Incidence of Type 2 Diabetes with Lifestyle Intervention or Metformin
+Cancer statistics, 2019
+The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3)
+<i>Colloquium</i>: Topological insulators
+Global Cancer Statistics, 2002
+Naïve Bayesian Classifier for Rapid Assignment of rRNA Sequences into the New Bacterial Taxonomy
+Increasing Returns and Long-Run Growth
+SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor
+Longitudinal data analysis using generalized linear models
+Cancer statistics, 2020
+HTSeq—a Python framework to work with high-throughput sequencing data
+featureCounts: an efficient general purpose program for assigning sequence reads to genomic features
+Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study
+Special Care Units and Traditional Care in Dementia: Relationship with Behavior, Cognition, Functional Status and Quality of Life - A Review
+Glutathione S-Transferases
+A Simple, Fast, and Accurate Algorithm to Estimate Large Phylogenies by Maximum Likelihood
+Deterministic Nonperiodic Flow
+Estimates of worldwide burden of cancer in 2008: GLOBOCAN 2008
+A Theoretical Extension of the Technology Acceptance Model: Four Longitudinal Field Studies
+The Effect of Riding as an Alternative Treatment for Children with Cerebral Palsy: A Systematic Review and Meta-Analysis
+IQ-TREE: A Fast and Effective Stochastic Algorithm for Estimating Maximum-Likelihood Phylogenies
+Modern Applied Statistics with S
+Scalable molecular dynamics with NAMD
+Geneious Basic: An integrated and extendable desktop software platform for the organization and analysis of sequence data
+International Physical Activity Questionnaire: 12-Country Reliability and Validity
+DETERMINATION OF SERUM PROTEINS BY MEANS OF THE BIURET REACTION
+Older Adults' Reasons for Using Technology while Aging in Place
+Regularization and Variable Selection Via the Elastic Net
+A profile refinement method for nuclear and magnetic structures
+Embryonic Stem Cell Lines Derived from Human Blastocysts
+Global Prevalence of Diabetes
+Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information
+Cancer statistics, 2016
+A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting
+New Algorithms and Methods to Estimate Maximum-Likelihood Phylogenies: Assessing the Performance of PhyML 3.0
+Measurements of Ω and Λ from 42 High‐Redshift Supernovae
+Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women: Principal Results From the Women's Health Initiative Randomized Controlled Trial
+AMPLIFICATION AND DIRECT SEQUENCING OF FUNGAL RIBOSOMAL RNA GENES FOR PHYLOGENETICS
+Cancer statistics, 2018
+Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China
+GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers
+<b>lavaan</b>: An<i>R</i>Package for Structural Equation Modeling
+The qualitative content analysis process
+A New Method for Measuring Daytime Sleepiness: The Epworth Sleepiness Scale
+Use of avidin-biotin-peroxidase complex (ABC) in immunoperoxidase techniques: a comparison between ABC and unlabeled antibody (PAP) procedures.
+Cancer statistics in China, 2015
+Development and testing of a general amber force field
+<i>XDS</i>
+DnaSP v5: a software for comprehensive analysis of DNA polymorphism data
+One-step inactivation of chromosomal genes in <i>Escherichia coli</i> K-12 using PCR products
+Haploview: analysis and visualization of LD and haplotype maps
+Cancer statistics, 2017
+Arlequin suite ver 3.5: a new series of programs to perform population genetics analyses under Linux and Windows
+Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks
+Rating neurologic impairment in multiple sclerosis: An expanded disability status scale (EDSS)
+Centrality in social networks conceptual clarification
+On Persistence in Mutual Fund Performance
+Silhouettes: A graphical aid to the interpretation and validation of cluster analysis
+THE GENETICS OF <i>CAENORHABDITIS ELEGANS</i>
+Repertoires of Autophagy in the Pathogenesis of Ocular Diseases
+Community structure in social and biological networks
+Relationship of Childhood Abuse and Household Dysfunction to Many of the Leading Causes of Death in Adults
+Improved Survival with Ipilimumab in Patients with Metastatic Melanoma
+Eigenfaces for Recognition
+Atomically Thin<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:msub><mml:mi>MoS</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>: A New Direct-Gap Semiconductor
+<i>ATHENA</i>,<i>ARTEMIS</i>,<i>HEPHAESTUS</i>: data analysis for X-ray absorption spectroscopy using<i>IFEFFIT</i>
+Maps of Dust Infrared Emission for Use in Estimation of Reddening and Cosmic Microwave Background Radiation Foregrounds
+2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure
+Statistical principles in experimental design.
+Multiplex Genome Engineering Using CRISPR/Cas Systems
+Phosphorus Assay in Column Chromatography
+Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists
+Single-crystal structure validation with the program<i>PLATON</i>
+A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity
+The cBio Cancer Genomics Portal: An Open Platform for Exploring Multidimensional Cancer Genomics Data
+Adverse Renal Effects of Immune Checkpoint Inhibitors: A Narrative Review
+The MIQE Guidelines: Minimum Information for Publication of Quantitative Real-Time PCR Experiments
+Calcium's Role in Mechanotransduction during Muscle Development
+DNA polymorphisms amplified by arbitrary primers are useful as genetic markers
+<i>MolProbity</i>: all-atom structure validation for macromolecular crystallography
+Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions
+MAXIMUM LIKELIHOOD ESTIMATION AND INFERENCE ON COINTEGRATION — WITH APPLICATIONS TO THE DEMAND FOR MONEY
+MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform
+THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS
+Receptive fields, binocular interaction and functional architecture in the cat's visual cortex
+Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia
+Social Network Sites: Definition, History, and Scholarship
+PLS-SEM: Indeed a Silver Bullet
+SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+Mfold web server for nucleic acid folding and hybridization prediction
+UCHIME improves sensitivity and speed of chimera detection
+Matrix Elasticity Directs Stem Cell Lineage Specification
+Sorafenib in Advanced Hepatocellular Carcinoma
+Physisorption of gases, with special reference to the evaluation of surface area and pore size distribution (IUPAC Technical Report)
+Cancer Statistics, 2010
+Cancer Statistics, 2021
+<b>lmerTest</b> Package: Tests in Linear Mixed Effects Models
+Superoxide Dismutase
+Harmonizing the Metabolic Syndrome
+Third Report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) Final Report
+Evolving to a New Dominant Logic for Marketing
+STRING v11: protein–protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets
+A theory of human motivation.
+Psychophysical bases of perceived exertion
+Lounging in a lysosome: the intracellular lifestyle of Coxiella burnetii
+GENERAL CIRCULATION EXPERIMENTS WITH THE PRIMITIVE EQUATIONS
+Click Chemistry: Diverse Chemical Function from a Few Good Reactions
+Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010
+Indexing by latent semantic analysis
+MEGA3: Integrated software for Molecular Evolutionary Genetics Analysis and sequence alignment
+An Overview of CMIP5 and the Experiment Design
+Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine
+The Cross‐Section of Expected Stock Returns
+Emerging adulthood: A theory of development from the late teens through the twenties.
+The Strengths and Difficulties Questionnaire: A Research Note
+A Practical Guide to Wavelet Analysis
+Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure
+The C. elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14
+Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data.
+A translation approach to portable ontology specifications
+Cancer statistics, 2015
+Situated Cognition and the Culture of Learning
+Cancer statistics, 2013
+A genetic model for colorectal tumorigenesis
+Dynamic capabilities: what are they?
+A Pure Theory of Local Expenditures
+Overview of the<i>CCP</i>4 suite and current developments
+Conserved Seed Pairing, Often Flanked by Adenosines, Indicates that Thousands of Human Genes are MicroRNA Targets
+PhysioBank, PhysioToolkit, and PhysioNet
+Recommendations for Cardiac Chamber Quantification by Echocardiography in Adults: An Update from the American Society of Echocardiography and the European Association of Cardiovascular Imaging
+The Carbon Monoxide-binding Pigment of Liver Microsomes
+Gene Expression Omnibus: NCBI gene expression and hybridization array data repository
+Ventilation with Lower Tidal Volumes as Compared with Traditional Tidal Volumes for Acute Lung Injury and the Acute Respiratory Distress Syndrome
+PAML 4: Phylogenetic Analysis by Maximum Likelihood
+TopHat: discovering splice junctions with RNA-Seq
+The Hallmarks of Aging
+A default mode of brain function
+Evaluation of Factors Related to Late Recurrence - Later than 10 Years after the Initial Treatment - in Primary Breast Cancer
+Cancer statistics, 2014
+The variant call format and VCFtools
+Depression and Quality of Life in Older Persons: A Review
+ANNOVAR: functional annotation of genetic variants from high-throughput sequencing data
+The REDCap consortium: Building an international community of software platform partners
+Control of goal-directed and stimulus-driven attention in the brain
+Studies on transformation of Escherichia coli with plasmids
+Parkinsonism
+Activating Mutations in the Epidermal Growth Factor Receptor Underlying Responsiveness of Non–Small-Cell Lung Cancer to Gefitinib
+Bayesian Measures of Model Complexity and Fit
+Safety, Activity, and Immune Correlates of Anti–PD-1 Antibody in Cancer
+Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2
+Principles of Fluorescence Spectroscopy
+Statistical method for testing the neutral mutation hypothesis by DNA polymorphism.
+The psychological impact of quarantine and how to reduce it: rapid review of the evidence
+fastp: an ultra-fast all-in-one FASTQ preprocessor
+Conducting Meta-Analyses in<i>R</i>with the<b>metafor</b>Package
+FLASH: fast length adjustment of short reads to improve genome assemblies
+Profiling of complex microbial populations by denaturing gradient gel electrophoresis analysis of polymerase chain reaction-amplified genes coding for 16S rRNA
+Apoptosis: A Review of Programmed Cell Death
+A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking
+Use of Chemotherapy plus a Monoclonal Antibody against HER2 for Metastatic Breast Cancer That Overexpresses HER2
+Pathogen Recognition and Innate Immunity
+Diagnosis and Management of the Metabolic Syndrome
+Chronic Kidney Disease and the Risks of Death, Cardiovascular Events, and Hospitalization
+ESTIMATION OF AVERAGE HETEROZYGOSITY AND GENETIC DISTANCE FROM A SMALL NUMBER OF INDIVIDUALS
+Long-range corrected hybrid density functionals with damped atom–atom dispersion corrections
+Cancer statistics, 2012
+Kinetics of Phase Change. I General Theory
+Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications
+Simple Combinations of Lineage-Determining Transcription Factors Prime cis-Regulatory Elements Required for Macrophage and B Cell Identities
+IMPROVEMENTS IN EPOXY RESIN EMBEDDING METHODS
+Array programming with NumPy
+Blast2GO: a universal tool for annotation, visualization and analysis in functional genomics research
+Classification of subtype of acute ischemic stroke. Definitions for use in a multicenter clinical trial. TOAST. Trial of Org 10172 in Acute Stroke Treatment.
+Radiological Assessment of Osteo-Arthrosis
+Prevention of Type 2 Diabetes Mellitus by Changes in Lifestyle among Subjects with Impaired Glucose Tolerance
+Bevacizumab plus Irinotecan, Fluorouracil, and Leucovorin for Metastatic Colorectal Cancer
+Cancer statistics, 2022
+Tissue Plasminogen Activator for Acute Ischemic Stroke
+Exploration, normalization, and summaries of high density oligonucleotide array probe level data
+The ERA5 global reanalysis
+Updating the American college of rheumatology revised criteria for the classification of systemic lupus erythematosus
+Beiträge zur Optik trüber Medien, speziell kolloidaler Metallösungen
+Dabigatran versus Warfarin in Patients with Atrial Fibrillation
+Regularization Paths for Generalized Linear Models via Coordinate Descent
+Median-joining networks for inferring intraspecific phylogenies
+The Two Micron All Sky Survey (2MASS)
+16S ribosomal DNA amplification for phylogenetic study
+A Theory of Fairness, Competition, and Cooperation
+Modularity and community structure in networks
+GenAlEx 6.5: genetic analysis in Excel. Population genetic software for teaching and research—an update
+Comprehensive Integration of Single-Cell Data
+<scp>micro</scp>‐<scp>checker</scp>: software for identifying and correcting genotyping errors in microsatellite data
+Fast robust automated brain extraction
+A PHOTOMETRIC ADAPTATION OF THE SOMOGYI METHOD FOR THE DETERMINATION OF GLUCOSE
+Prospective identification of tumorigenic breast cancer cells
+The measurement of experienced burnout
+Aspirin plus Clopidogrel as Secondary Prevention after Stroke or Transient Ischemic Attack: A Systematic Review and Meta-Analysis
+CAPITAL ASSET PRICES: A THEORY OF MARKET EQUILIBRIUM UNDER CONDITIONS OF RISK*
+A Combined Corner and Edge Detector
+jModelTest: Phylogenetic Model Averaging
+Sarcopenia: European consensus on definition and diagnosis
+A new coronavirus associated with human respiratory disease in China
+The Occurrence of Sleep-Disordered Breathing among Middle-Aged Adults
+Cancer Statistics, 2009
+Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function
+Identification of programmed cell death in situ via specific labeling of nuclear DNA fragmentation.
+Early Goal-Directed Therapy in the Treatment of Severe Sepsis and Septic Shock
+Semigroups of Linear Operators and Applications to Partial Differential Equations
+Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields
+Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites
+Intensive Insulin Therapy in Critically Ill Patients
+First‐Year <i>Wilkinson Microwave Anisotropy Probe</i> ( <i>WMAP</i> ) Observations: Determination of Cosmological Parameters
+Fast and accurate long-read alignment with Burrows–Wheeler transform
+The benefits of being present: Mindfulness and its role in psychological well-being.
+Greengenes, a Chimera-Checked 16S rRNA Gene Database and Workbench Compatible with ARB
+<i>Ab initio</i> effective core potentials for molecular calculations. Potentials for main group elements Na to Bi
+Complex networks: Structure and dynamics
+Declining Morbidity and Mortality among Patients with Advanced Human Immunodeficiency Virus Infection
+Accuracy of clinical diagnosis of idiopathic Parkinson's disease: a clinico-pathological study of 100 cases.
+Standard methods: For the examination of water and waste water
+Chromatin Modifications and Their Function
+Preoperative assessment of liver function: a comparison of <sup>99m</sup>Tc‐Mebrofenin scintigraphy with indocyanine green clearance test
+The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies
+BUSCO: assessing genome assembly and annotation completeness with single-copy orthologs
+TCS: a computer program to estimate gene genealogies
+<i>EGFR</i>Mutations in Lung Cancer: Correlation with Clinical Response to Gefitinib Therapy
+Explicating dynamic capabilities: the nature and microfoundations of (sustainable) enterprise performance
+Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding
+QUADAS-2: A Revised Tool for the Quality Assessment of Diagnostic Accuracy Studies
+LIII. <i>On lines and planes of closest fit to systems of points in space</i>
+CRC Handbook of Chemistry and Physics
+Robust Face Recognition via Sparse Representation
+Production, use, and fate of all plastics ever made
+Bayesian Phylogenetics with BEAUti and the BEAST 1.7
+Multidrug-resistant, extensively drug-resistant and pandrug-resistant bacteria: an international expert proposal for interim standard definitions for acquired resistance
+Statistical significance for genomewide studies
+Heat Shock Protein A12B Protects Vascular Endothelial Cells Against Sepsis-Induced Acute Lung Injury in Mice
+Empagliflozin, Cardiovascular Outcomes, and Mortality in Type 2 Diabetes
+Ferroptosis: An Iron-Dependent Form of Nonapoptotic Cell Death
+Bond-valence parameters obtained from a systematic analysis of the Inorganic Crystal Structure Database
+Index for rating diagnostic tests
+Food Security: The Challenge of Feeding 9 Billion People
+A Film Detection Method for Tritium‐Labelled Proteins and Nucleic Acids in Polyacrylamide Gels
+Free Radicals in the Physiological Control of Cell Function
+An index to quantify an individual's scientific research output
+Whatever happened to qualitative description?
+Astropy: A community Python package for astronomy
+Involvement of the Superoxide Anion Radical in the Autoxidation of Pyrogallol and a Convenient Assay for Superoxide Dismutase
+Selection of Conserved Blocks from Multiple Alignments for Their Use in Phylogenetic Analysis
+SExtractor: Software for source extraction
+Immunity, Inflammation, and Cancer
+Giant Magnetoresistance of (001)Fe/(001)Cr Magnetic Superlattices
+Epithelial-Mesenchymal Transitions in Development and Disease
+Prediction of Coronary Heart Disease Using Risk Factor Categories
+Prevalence of Overweight and Obesity in the United States, 1999-2004
+Local Indicators of Spatial Association—LISA
+Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017
+The Multidimensional Scale of Perceived Social Support
+Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): Initial Reliability and Validity Data
+Cd-hit: a fast program for clustering and comparing large sets of protein or nucleotide sequences
+Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement
+The SIESTA method for<i>ab initio</i>order-<i>N</i>materials simulation
+An interactive web-based dashboard to track COVID-19 in real time
+A system of shuttle vectors and yeast host strains designed for efficient manipulation of DNA in Saccharomyces cerevisiae.
+Solar Water Splitting Cells
+<tt>emcee</tt>: The MCMC Hammer
+Dermatologist-level classification of skin cancer with deep neural networks
+<i>Quantum Computation and Quantum Information</i>
+Reduced Lung-Cancer Mortality with Low-Dose Computed Tomographic Screening
+<i>Planck</i>2015 results
+STRING v10: protein–protein interaction networks, integrated over the tree of life
+The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration
+SWISS-MODEL: homology modelling of protein structures and complexes
+Effects of an Angiotensin-Converting–Enzyme Inhibitor, Ramipril, on Cardiovascular Events in High-Risk Patients
+The Effect of Spironolactone on Morbidity and Mortality in Patients with Severe Heart Failure
+Enzymatic Determination of Total Serum Cholesterol
+Determining optical flow
+A program for annotating and predicting the effects of single nucleotide polymorphisms, SnpEff
+Consumer Perceptions of Price, Quality, and Value: A Means-End Model and Synthesis of Evidence
+Toward a New Conception of the Environment-Competitiveness Relationship
+A tutorial on spectral clustering
+The capsaicin receptor: a heat-activated ion channel in the pain pathway
+WAF1, a potential mediator of p53 tumor suppression
+Validation and Utility of a Self-report Version of PRIME-MD&lt;SUBTITLE&gt;The PHQ Primary Care Study&lt;/SUBTITLE&gt;
+Mild Cognitive Impairment
+SignalP 4.0: discriminating signal peptides from transmembrane regions
+Rivaroxaban versus Warfarin in Nonvalvular Atrial Fibrillation
+Analysis of Gene Diversity in Subdivided Populations
+Evaluation, Treatment, and Prevention of Vitamin D Deficiency: an Endocrine Society Clinical Practice Guideline
+Down-Regulation of Na<sup>+</sup>/K<sup>+</sup>ATPase Activity by Human Parvovirus B19 Capsid Protein VP1
+Deep Contextualized Word Representations
+An Introduction to Propensity Score Methods for Reducing the Effects of Confounding in Observational Studies
+Diagnostic criteria for multiple sclerosis: 2010 Revisions to the McDonald criteria
+Interpreting chromosomal DNA restriction patterns produced by pulsed-field gel electrophoresis: criteria for bacterial strain typing
+Reconsidering Baron and Kenny: Myths and Truths about Mediation Analysis
+Jalview Version 2—a multiple sequence alignment editor and analysis workbench
+Legal Determinants of External Finance
+Integrins
+Fine Structure Constant Defines Visual Transparency of Graphene
+VI. The phenomena of rupture and flow in solids
+The Benefits of Facebook “Friends:” Social Capital and College Students’ Use of Online Social Network Sites
+Copper-Zinc Superoxide Dismutase (SOD1) Is Released by Microglial Cells and Confers Neuroprotection against 6-OHDA Neurotoxicity
+MEME SUITE: tools for motif discovery and searching
+Illiquidity and stock returns: cross-section and time-series effects
+Two‐Dimensional Nanocrystals Produced by Exfoliation of Ti<sub>3</sub>AlC<sub>2</sub>
+Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine
+Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study
+Combining theory and experiment in electrocatalysis: Insights into materials design
+The Epithelial-Mesenchymal Transition Generates Cells with Properties of Stem Cells
+Nivolumab versus Docetaxel in Advanced Nonsquamous Non–Small-Cell Lung Cancer
+Design and analysis of randomized clinical trials requiring prolonged observation of each patient. II. Analysis and examples
+Wrappers for feature subset selection
+Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC
+A comparison of normalization methods for high density oligonucleotide array data based on variance and bias
+Computed Tomography — An Increasing Source of Radiation Exposure
+Controlling Electromagnetic Fields
+Dexamethasone in Hospitalized Patients with Covid-19
+Hybridization of denatured RNA and small DNA fragments transferred to nitrocellulose.
+Corruption and Growth
+Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019
+Aging: A Theory Based on Free Radical and Radiation Chemistry
+Imaging Intracellular Fluorescent Proteins at Nanometer Resolution
+Reporting results of cancer treatment
+Pembrolizumab versus Chemotherapy for PD-L1–Positive Non–Small-Cell Lung Cancer
+COVID-19: consider cytokine storm syndromes and immunosuppression
+Apixaban versus Warfarin in Patients with Atrial Fibrillation
+Self-consistent molecular orbital methods 25. Supplementary functions for Gaussian basis sets
+A general and simple method for obtaining <i>R</i><sup>2</sup> from generalized linear mixed‐effects models
+PD-1 Blockade in Tumors with Mismatch-Repair Deficiency
+trimAl: a tool for automated alignment trimming in large-scale phylogenetic analyses
+Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation
+Transformation of intact yeast cells treated with alkali cations
+Designing and Conducting Mixed Methods Research
+Gefitinib or Carboplatin–Paclitaxel in Pulmonary Adenocarcinoma
+Beneficial Effect of Carotid Endarterectomy in Symptomatic Patients with High-Grade Carotid Stenosis
+The Role of Superoxide Anion in the Autoxidation of Epinephrine and a Simple Assay for Superoxide Dismutase
+‘Small Changes' to Diet and Physical Activity Behaviors for Weight Management
+Whole Brain Segmentation
+Exploring complex networks
+Minimap2: pairwise alignment for nucleotide sequences
+<tt>BLAT</tt>—The <tt>BLAST</tt>-Like Alignment Tool
+Disability-adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010
+Presenting Characteristics, Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID-19 in the New York City Area
+Chlorophyll fluorescence—a practical guide
+The Molecular Signatures Database Hallmark Gene Set Collection
+The Modern Industrial Revolution, Exit, and the Failure of Internal Control Systems
+p53, the Cellular Gatekeeper for Growth and Division
+SEVEN-YEAR <i>WILKINSON MICROWAVE ANISOTROPY PROBE</i> ( <i>WMAP</i> ) OBSERVATIONS: COSMOLOGICAL INTERPRETATION
+Global epidemiology of nonalcoholic fatty liver disease—Meta‐analytic assessment of prevalence, incidence, and outcomes
+Lung Cancer, Cardiopulmonary Mortality, and Long-term Exposure to Fine Particulate Air Pollution
+Light Propagation with Phase Discontinuities: Generalized Laws of Reflection and Refraction
+Management of hepatocellular carcinoma: An update
+A simple panel unit root test in the presence of cross‐section dependence
+The 2016 revision to the World Health Organization classification of myeloid neoplasms and acute leukemia
+Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
+The Effect of Pravastatin on Coronary Events after Myocardial Infarction in Patients with Average Cholesterol Levels
+First principles phonon calculations in materials science
+<i>REFMAC</i>5 for the refinement of macromolecular crystal structures
+Detection of individual gas molecules adsorbed on graphene
+Powering the planet: Chemical challenges in solar energy utilization
+Optical Absorption Intensities of Rare-Earth Ions
+Epigenetic Regulations of GABAergic Neurotransmission: Relevance for Neurological Disorders and Epigenetic Therapy
+Planetary boundaries: Guiding human development on a changing planet
+Prevention of Coronary Heart Disease with Pravastatin in Men with Hypercholesterolemia
+Compendium of Physical Activities: an update of activity codes and MET intensities
+Novel methods improve prediction of species’ distributions from occurrence data
+Zwischenmolekulare Energiewanderung und Fluoreszenz
+A Modified Poisson Regression Approach to Prospective Studies with Binary Data
+Preconditioning with ischemia: a delay of lethal cell injury in ischemic myocardium.
+EVOLUTION IN MENDELIAN POPULATIONS
+An Association between Air Pollution and Mortality in Six U.S. Cities
+A New Statistical Method for Haplotype Reconstruction from Population Data
+Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC
+Cancer Statistics, 2007
+Entanglement of Formation of an Arbitrary State of Two Qubits
+Extended <sup>14</sup>C Data Base and Revised CALIB 3.0 <sup>14</sup>C Age Calibration Program
+Primer3—new capabilities and interfaces
+Theory of games and economic behavior
+Application of Phylogenetic Networks in Evolutionary Studies
+Heart rate variability: Standards of measurement, physiological interpretation, and clinical use
+A robust layered control system for a mobile robot
+A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster
+Measuring individual differences in implicit cognition: The implicit association test.
+Overweight, Obesity, and Mortality from Cancer in a Prospectively Studied Cohort of U.S. Adults
+Effects of Intensive Glucose Lowering in Type 2 Diabetes
+Nivolumab versus Docetaxel in Advanced Squamous-Cell Non–Small-Cell Lung Cancer
+mTOR Signaling in Growth Control and Disease
+Circulating microRNAs as stable blood-based markers for cancer detection
+Effect of Enalapril on Survival in Patients with Reduced Left Ventricular Ejection Fractions and Congestive Heart Failure
+Recommendations regarding quantitation in M-mode echocardiography: results of a survey of echocardiographic measurements.
+Spontaneous Initiation of Atrial Fibrillation by Ectopic Beats Originating in the Pulmonary Veins
+phytools: an R package for phylogenetic comparative biology (and other things)
+2013 ACCF/AHA Guideline for the Management of Heart Failure
+Heart Disease and Stroke Statistics—2017 Update: A Report From the American Heart Association
+A new method for sequencing DNA.
+2010 Rheumatoid arthritis classification criteria: An American College of Rheumatology/European League Against Rheumatism collaborative initiative
+Feeling and thinking: Preferences need no inferences.
+Exploring internal stickiness: Impediments to the transfer of best practice within the firm
+Sarcopenia: revised European consensus on definition and diagnosis
+Pattern Recognition Receptors and Inflammation
+Improved Survival with Vemurafenib in Melanoma with BRAF V600E Mutation
+Molecular Mechanisms of Depression: Perspectives on New Treatment Strategies
+<scp>WSXM</scp>: A software for scanning probe microscopy and a tool for nanotechnology
+Commentary: The Materials Project: A materials genome approach to accelerating materials innovation
+Male-Female Wage Differentials in Urban Labor Markets
+2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation
+The Pfam protein families database.
+Cytochrome c and dATP-Dependent Formation of Apaf-1/Caspase-9 Complex Initiates an Apoptotic Protease Cascade
+Plant Products as Antimicrobial Agents
+α-Synuclein in Lewy bodies
+Report of the Ad Hoc Committee on Reconciliation of Approaches to Bacterial Systematics
+The Complete Genome Sequence of <i>Escherichia coli</i> K-12
+Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen
+The Construct of Resilience: A Critical Evaluation and Guidelines for Future Work
+Nanotoxicology: An Emerging Discipline Evolving from Studies of Ultrafine Particles
+Loop-mediated isothermal amplification of DNA
+Intratumor Heterogeneity and Branched Evolution Revealed by Multiregion Sequencing
+Pathological findings of COVID-19 associated with acute respiratory distress syndrome
+THE ROLE OF TUTORING IN PROBLEM SOLVING<sup>*</sup>
+Effects of Losartan on Renal and Cardiovascular Outcomes in Patients with Type 2 Diabetes and Nephropathy
+Global patterns of 16S rRNA diversity at a depth of millions of sequences per sample
+NCBI GEO: archive for functional genomics data sets—update
+<i>Gaia</i> Data Release 2
+Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines
+Google Earth Engine: Planetary-scale geospatial analysis for everyone
+10-Year Follow-up of Intensive Glucose Control in Type 2 Diabetes
+Enrichr: a comprehensive gene set enrichment analysis web server 2016 update
+Enriching Word Vectors with Subword Information
+Diversity of the Human Intestinal Microbial Flora
+CBTRUS Statistical Report: Primary Brain and Central Nervous System Tumors Diagnosed in the United States in 2006-2010
+Bond-valence parameters for solids
+TBtools: An Integrative Toolkit Developed for Interactive Analyses of Big Biological Data
+Program MARK: survival estimation from populations of marked animals
+Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein
+Galactic Stellar and Substellar Initial Mass Function
+Space/time trade-offs in hash coding with allowable errors
+Relative expression software tool (REST(C)) for group-wise comparison and statistical analysis of relative expression results in real-time PCR
+Safety and Activity of Anti–PD-L1 Antibody in Patients with Advanced Cancer
+Metamaterial Electromagnetic Cloak at Microwave Frequencies
+Nanocrystals of Cesium Lead Halide Perovskites (CsPbX<sub>3</sub>, X = Cl, Br, and I): Novel Optoelectronic Materials Showing Bright Emission with Wide Color Gamut
+Electrostatics of nanosystems: Application to microtubules and the ribosome
+The SWISS-MODEL workspace: a web-based environment for protein structure homology modelling
+Construction of <i>Escherichia coli</i> K‐12 in‐frame, single‐gene knockout mutants: the Keio collection
+Mutation and Cancer: Statistical Study of Retinoblastoma
+The Metabolic Phenotype in Obesity: Fat Mass, Body Fat Distribution, and Adipose Tissue Function
+Development of a new resilience scale: The Connor-Davidson Resilience Scale (CD-RISC)
+Child abuse: Adolescent records vs. adult recall
+The nuclear receptor superfamily: The second decade
+Quantification of coronary artery calcium using ultrafast computed tomography
+Demonstrating Rigor Using Thematic Analysis: A Hybrid Approach of Inductive and Deductive Coding and Theme Development
+Mortality from Coronary Heart Disease in Subjects with Type 2 Diabetes and in Nondiabetic Subjects with and without Prior Myocardial Infarction
+The feasibility of creating a checklist for the assessment of the methodological quality both of randomised and non-randomised studies of health care interventions
+CD-HIT: accelerated for clustering the next-generation sequencing data
+UniFrac: a New Phylogenetic Method for Comparing Microbial Communities
+Combined Nivolumab and Ipilimumab or Monotherapy in Untreated Melanoma
+GEPIA: a web server for cancer and normal gene expression profiling and interactive analyses
+A method of comparing the areas under receiver operating characteristic curves derived from the same cases.
+Patterns and Emerging Mechanisms of the Angiogenic Switch during Tumorigenesis
+THF EARLY STAGES OF ABSORPTION OF INJECTED HORSERADISH PEROXIDASE IN THE PROXIMAL TUBULES OF MOUSE KIDNEY: ULTRASTRUCTURAL CYTOCHEMISTRY BY A NEW TECHNIQUE
+New, improved version of generic mapping tools released
+Polyphenols: food sources and bioavailability
+Spatial Econometrics: Methods and Models
+Prevalence and Trends in Obesity Among US Adults, 1999-2008
+LOSS OF RECENT MEMORY AFTER BILATERAL HIPPOCAMPAL LESIONS
+SRIM – The stopping and range of ions in matter (2010)
+Reinforcement Learning: A Survey
+2018 ESC/ESH Guidelines for the management of arterial hypertension
+Recommended diagnostic criteria for multiple sclerosis: Guidelines from the international panel on the diagnosis of multiple sclerosis
+Efficient<i>in vitro</i>synthesis of biologically active RNA and RNA hybridization probes from plasmids containing a bacteriophage SP6 promoter
+The Colonial Origins of Comparative Development: An Empirical Investigation
+Model Selection and Estimation in Regression with Grouped Variables
+Radiative transfer for inhomogeneous atmospheres: RRTM, a validated correlated‐k model for the longwave
+Inflammation and Atherosclerosis
+Atrial fibrillation as an independent risk factor for stroke: the Framingham Study.
+The Structure of the Potassium Channel: Molecular Basis of K <sup>+</sup> Conduction and Selectivity
+THE INJURY SEVERITY SCORE
+[6] Use of T7 RNA polymerase to direct expression of cloned genes
+Prophylactic Implantation of a Defibrillator in Patients with Myocardial Infarction and Reduced Ejection Fraction
+<i>Planck</i>2018 results
+Overview of the High Efficiency Video Coding (HEVC) Standard
+Physical Activity in the United States Measured by Accelerometer
+Vision meets robotics: The KITTI dataset
+Immunobiology of Dendritic Cells
+The Magma Algebra System I: The User Language
+Liver Transplantation for the Treatment of Small Hepatocellular Carcinomas in Patients with Cirrhosis
+How mitochondria produce reactive oxygen species
+The Structure of Cold Dark Matter Halos
+A 3D Map of the Human Genome at Kilobase Resolution Reveals Principles of Chromatin Looping
+The International Classification of Headache Disorders, 3rd edition (beta version)
+Effective Approaches to Attention-based Neural Machine Translation
+Terrestrial Ecoregions of the World: A New Map of Life on Earth
+A simulation study of the number of events per variable in logistic regression analysis
+Progressive Statistics for Studies in Sports Medicine and Exercise Science
+Posterior Summarization in Bayesian Phylogenetics Using Tracer 1.7
+The Thiobarbituric Acid Assay of Sialic Acids
+Equilibrium points in <i>n</i> -person games
+Mild cognitive impairment as a diagnostic entity
+A revised European-American classification of lymphoid neoplasms: a proposal from the International Lymphoma Study Group [see comments]
+VSEARCH: a versatile open source tool for metagenomics
+Statecharts: a visual formalism for complex systems
+Long‐lasting potentiation of synaptic transmission in the dentate area of the anaesthetized rabbit following stimulation of the perforant path
+Intensive Blood Glucose Control and Vascular Outcomes in Patients with Type 2 Diabetes
+A Rapid Bootstrap Algorithm for the RAxML Web Servers
+What Are Batteries, Fuel Cells, and Supercapacitors?
+Transcatheter Aortic-Valve Implantation for Aortic Stenosis in Patients Who Cannot Undergo Surgery
+Extracellular vesicles: Exosomes, microvesicles, and friends
+An Introduction to Statistical Learning
+Surface energy and the contact of elastic solids
+Approved Lists of Bacterial Names
+Millimeter Wave Mobile Communications for 5G Cellular: It Will Work!
+Two-Dimensional Nanosheets Produced by Liquid Exfoliation of Layered Materials
+Reversible middle cerebral artery occlusion without craniectomy in rats.
+Effect of physical inactivity on major non-communicable diseases worldwide: an analysis of burden of disease and life expectancy
+dbSNP: the NCBI database of genetic variation
+Peginterferon Alfa-2a plus Ribavirin for Chronic Hepatitis C Virus Infection
+<i>MGMT</i>Gene Silencing and Benefit from Temozolomide in Glioblastoma
+Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China
+A Simple Statistical Parameter for Use in Evaluation and Validation of High Throughput Screening Assays
+A theory of timed automata
+Graph-based genome alignment and genotyping with HISAT2 and HISAT-genotype
+Qualitative research in health care: Analysing qualitative data
+On the Relation between the Expected Value and the Volatility of the Nominal Excess Return on Stocks
+Prevention of HIV-1 Infection with Early Antiretroviral Therapy
+Measuring Economic Policy Uncertainty*
+Arlequin (version 3.0): An integrated software package for population genetics data analysis
+Inference of Population Structure Using Multilocus Genotype Data: Linked Loci and Correlated Allele Frequencies
+Social Change and Crime Rate Trends: A Routine Activity Approach
+Autophagy in the Pathogenesis of Disease
+Collinearity: a review of methods to deal with it and a simulation study evaluating their performance
+Band theory and Mott insulators: Hubbard<i>U</i>instead of Stoner<i>I</i>
+Akt Promotes Cell Survival by Phosphorylating and Inhibiting a Forkhead Transcription Factor
+Integrated Genomic Analysis Identifies Clinically Relevant Subtypes of Glioblastoma Characterized by Abnormalities in PDGFRA, IDH1, EGFR, and NF1
+High-Resolution Profiling of Histone Methylations in the Human Genome
+Taxonomic Note: A Place for DNA-DNA Reassociation and 16S rRNA Sequence Analysis in the Present Species Definition in Bacteriology
+Measuring agreement in method comparison studies
+Effects of Clopidogrel in Addition to Aspirin in Patients with Acute Coronary Syndromes without ST-Segment Elevation
+Adjusting batch effects in microarray expression data using empirical Bayes methods
+Ticagrelor versus Clopidogrel in Patients with Acute Coronary Syndromes
+Development of a WHO growth reference for school-aged children and adolescents
+The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur Award Lecture
+How to do Xtabond2: An Introduction to Difference and System GMM in Stata
+Epidemiology and causes of preterm birth
+FOLFIRINOX versus Gemcitabine for Metastatic Pancreatic Cancer
+Long-Range Balanced Electron- and Hole-Transport Lengths in Organic-Inorganic CH <sub>3</sub> NH <sub>3</sub> PbI <sub>3</sub>
+Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease
+Segmentation of brain MR images through a hidden Markov random field model and the expectation-maximization algorithm
+A Pacific Interdecadal Climate Oscillation with Impacts on Salmon Production
+Heart Disease and Stroke Statistics—2019 Update: A Report From the American Heart Association
+KEGG: new perspectives on genomes, pathways, diseases and drugs
+Surfing the p53 network
+Base-Calling of Automated Sequencer Traces Using<i>Phred.</i> I. Accuracy Assessment
+An approach to correlate tandem mass spectral data of peptides with amino acid sequences in a protein database
+Plasmonics: Fundamentals and Applications
+Regularization Paths for Generalized Linear Models via Coordinate Descent.
+Prasugrel versus Clopidogrel in Patients with Acute Coronary Syndromes
+The PRIDE database and related tools and resources in 2019: improving support for quantification data
+An Introduction to Boundary Layer Meteorology
+Amiodarone or an Implantable Cardioverter–Defibrillator for Congestive Heart Failure
+Toward principles for the design of ontologies used for knowledge sharing?
+The organization of the human cerebral cortex estimated by intrinsic functional connectivity
+International consensus statement on an update of the classification criteria for definite antiphospholipid syndrome (APS)
+An Official ATS/ERS/JRS/ALAT Statement: Idiopathic Pulmonary Fibrosis: Evidence-based Guidelines for Diagnosis and Management
+Early Palliative Care for Patients with Metastatic Non–Small-Cell Lung Cancer
+GCTA: A Tool for Genome-wide Complex Trait Analysis
+GROMACS 4.5: a high-throughput and highly parallel open source molecular simulation toolkit
+The TRMM Multisatellite Precipitation Analysis (TMPA): Quasi-Global, Multiyear, Combined-Sensor Precipitation Estimates at Fine Scales
+Statistical Tests of Neutrality of Mutations Against Population Growth, Hitchhiking and Background Selection
+A Gene-Expression Signature as a Predictor of Survival in Breast Cancer
+THE WIDE-FIELD INFRARED SURVEY EXPLORER (WISE): MISSION DESCRIPTION AND INITIAL ON-ORBIT PERFORMANCE
+Sparse MRI: The application of compressed sensing for rapid MR imaging
+Receiver-operating characteristic (ROC) plots: a fundamental evaluation tool in clinical medicine
+Serum Immunoreactive-Leptin Concentrations in Normal-Weight and Obese Humans
+Granulation, Phase Change, and Microstructure Kinetics of Phase Change. III
+Fully Convolutional Networks for Semantic Segmentation
+Receptive fields and functional architecture of monkey striate cortex
+Implications of Recent Clinical Trials for the National Cholesterol Education Program Adult Treatment Panel III Guidelines
+EASL Clinical Practice Guidelines: Management of hepatocellular carcinoma
+A versatile vector for gene and oligonucleotide transfer into cells in culture and in vivo: polyethylenimine.
+UniProt: a worldwide hub of protein knowledge
+InterProScan 5: genome-scale protein function classification
+A new integral equation formalism for the polarizable continuum model: Theoretical background and applications to isotropic and anisotropic dielectrics
+Prevalence of Diagnosed Atrial Fibrillation in Adults
+<i>C</i><i>P</i>-Violation in the Renormalizable Theory of Weak Interaction
+DnaSP, DNA polymorphism analyses by the coalescent and other methods
+Highly Parallel Genome-wide Expression Profiling of Individual Cells Using Nanoliter Droplets
+Markers of Inflammation and Cardiovascular Disease
+A New Method of Analyzing Thermogravimetric Data
+The Effect of Cardiac Resynchronization on Morbidity and Mortality in Heart Failure
+General Cardiovascular Risk Profile for Use in Primary Care
+2015 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation
+Higher market valuation of companies with a small board of directors
+The Jackknife, the Bootstrap and Other Resampling Plans
+2013 ESH/ESC Guidelines for the management of arterial hypertension
+Internet of Things: A Survey on Enabling Technologies, Protocols, and Applications
+Polymer-layered silicate nanocomposites: preparation, properties and uses of a new class of materials
+A SPECTROPHOTOMETRIC METHOD FOR MEASURING THE BREAKDOWN OF HYDROGEN PEROXIDE BY CATALASE
+The 2016 revision of the World Health Organization classification of lymphoid neoplasms
+MEGA11: Molecular Evolutionary Genetics Analysis Version 11
+A protocol for data exploration to avoid common statistical problems
+The episodic buffer: a new component of working memory?
+Remdesivir for the Treatment of Covid-19 — Final Report
+Principal Component Analysis
+Clustering by Passing Messages Between Data Points
+NIA‐AA Research Framework: Toward a biological definition of Alzheimer's disease
+Evaluation of general 16S ribosomal RNA gene PCR primers for classical and next-generation sequencing-based diversity studies
+Prediction of Total Genetic Value Using Genome-Wide Dense Marker Maps
+Absorptive Capacity: A Review, Reconceptualization, and Extension
+Finding community structure in very large networks
+Gravity with Gravitas: A Solution to the Border Puzzle
+P<scp>ACKMOL</scp>: A package for building initial configurations for molecular dynamics simulations
+Indian Medicinal Plants
+CONSORT 2010 Statement: updated guidelines for reporting parallel group randomised trials
+Guidelines for the Echocardiographic Assessment of the Right Heart in Adults: A Report from the American Society of Echocardiography
+Molecular Mechanisms of Stress-Responsive Changes in Collagen and Elastin Networks in Skin
+IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era
+Thrombolysis with Alteplase 3 to 4.5 Hours after Acute Ischemic Stroke
+Surviving Sepsis Campaign
+The Natural Flow Regime
+Massive MIMO for next generation wireless systems
+Prevalence and Trends in Obesity Among US Adults, 1999-2000
+An improved algorithm for reaction path following
+Global and regional diabetes prevalence estimates for 2019 and projections for 2030 and 2045: Results from the International Diabetes Federation Diabetes Atlas, 9th edition
+Brain magnetic resonance imaging with contrast dependent on blood oxygenation.
+Mind the Gap: Why do people act environmentally and what are the barriers to pro-environmental behavior?
+Rosuvastatin to Prevent Vascular Events in Men and Women with Elevated C-Reactive Protein
+Intravenous Fluids and Acute Kidney Injury
+Inter-Society Consensus for the Management of Peripheral Arterial Disease (TASC II)
+Effect of Captopril on Mortality and Morbidity in Patients with Left Ventricular Dysfunction after Myocardial Infarction
+Preparation of fatty acid methyl esters and dimethylacetals from lipids with boron fluoride–methanol
+The hierarchy problem and new dimensions at a millimeter
+Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016
+The STRING database in 2017: quality-controlled protein–protein association networks, made broadly accessible
+Epitaxial BiFeO <sub>3</sub> Multiferroic Thin Film Heterostructures
+Nonparametric permutation tests for functional neuroimaging: A primer with examples
+Development and reliability of a system to classify gross motor function in children with cerebral palsy
+Genetics of Food Intake Self-Regulation in Childhood: Literature Review and Research Opportunities
+A typology of reviews: an analysis of 14 review types and associated methodologies
+C-Reactive Protein and Other Markers of Inflammation in the Prediction of Cardiovascular Disease in Women
+Deliberate Learning and the Evolution of Dynamic Capabilities
+Epidemiologic Classification of Human Papillomavirus Types Associated with Cervical Cancer
+Robust principal component analysis?
+Thematic Analysis
+Biofilms: Survival Mechanisms of Clinically Relevant Microorganisms
+ON THE PRICING OF CORPORATE DEBT: THE RISK STRUCTURE OF INTEREST RATES*
+SILVA: a comprehensive online resource for quality checked and aligned ribosomal RNA sequence data compatible with ARB
+Hypoxia-inducible factor 1 is a basic-helix-loop-helix-PAS heterodimer regulated by cellular O2 tension.
+A ceRNA Hypothesis: The Rosetta Stone of a Hidden RNA Language?
+Estimating the sample mean and standard deviation from the sample size, median, range and/or interquartile range
+Peptide mapping by limited proteolysis in sodium dodecyl sulfate and analysis by gel electrophoresis.
+A novel coronavirus outbreak of global health concern
+Changes of Intestinal Functions in Liver Cirrhosis
+High-performance photovoltaic perovskite layers fabricated through intramolecular exchange
+The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) Statement: Guidelines for reporting observational studies
+A Multigene Assay to Predict Recurrence of Tamoxifen-Treated, Node-Negative Breast Cancer
+Integrated analysis of multimodal single-cell data
+<b>mice</b>: Multivariate Imputation by Chained Equations in<i>R</i>
+Mesenchymal stem cells
+Optimum consumption and portfolio rules in a continuous-time model
+Canagliflozin and Cardiovascular and Renal Events in Type 2 Diabetes
+Database resources of the National Center for Biotechnology Information: update
+The Epidemiology of Sepsis in the United States from 1979 through 2000
+Efficacy and Safety of Recombinant Human Activated Protein C for Severe Sepsis
+Three‐Year<i>Wilkinson Microwave Anisotropy Probe</i>(<i>WMAP</i>) Observations: Implications for Cosmology
+Health Effects of Fine Particulate Air Pollution: Lines that Connect
+Absorption and Scattering of Light by Small Particles
+Renoprotective Effect of the Angiotensin-Receptor Antagonist Irbesartan in Patients with Nephropathy Due to Type 2 Diabetes
+MEASURING REDDENING WITH SLOAN DIGITAL SKY SURVEY STELLAR SPECTRA AND RECALIBRATING SFD
+Akt Phosphorylation of BAD Couples Survival Signals to the Cell-Intrinsic Death Machinery
+Complex heatmaps reveal patterns and correlations in multidimensional genomic data
+Transcatheter versus Surgical Aortic-Valve Replacement in High-Risk Patients
+A Method for Determining the Sedimentation Behavior of Enzymes: Application to Protein Mixtures
+Development of a Dual-Index Sequencing Strategy and Curation Pipeline for Analyzing Amplicon Sequence Data on the MiSeq Illumina Sequencing Platform
+Cardiac-Resynchronization Therapy with or without an Implantable Defibrillator in Advanced Chronic Heart Failure
+GRADE guidelines: 3. Rating the quality of evidence
+Guidelines for the Early Management of Patients With Acute Ischemic Stroke
+What Do We Know about Capital Structure? Some Evidence from International Data
+ARB: a software environment for sequence data
+Predicting effective microRNA target sites in mammalian mRNAs
+Bid, ask and transaction prices in a specialist market with heterogeneously informed traders
+A Large and Persistent Carbon Sink in the World’s Forests
+Paclitaxel–Carboplatin Alone or with Bevacizumab for Non–Small-Cell Lung Cancer
+Human Papillomavirus and Survival of Patients with Oropharyngeal Cancer
+Introducing EzBioCloud: a taxonomically united database of 16S rRNA gene sequences and whole-genome assemblies
+Regulation of the Voltage Gated K&lt;sup&gt;+&lt;/sup&gt; Channel K&lt;sub&gt;v1.3&lt;/sub&gt; by Recombinant Human Klotho Protein
+Prevalence of Obesity, Diabetes, and Obesity-Related Health Risk Factors, 2001
+Mechanisms of TGF-β Signaling from Cell Membrane to the Nucleus
+The Structure of Haplotype Blocks in the Human Genome
+Headache Classification Committee of the International Headache Society (IHS) The International Classification of Headache Disorders, 3rd edition
+Twenty-Year Follow-up of a Randomized Trial Comparing Total Mastectomy, Lumpectomy, and Lumpectomy plus Irradiation for the Treatment of Invasive Breast Cancer
+Option pricing when underlying stock returns are discontinuous
+<b>FactoMineR</b>: An<i>R</i>Package for Multivariate Analysis
+A Multiscalar Drought Index Sensitive to Global Warming: The Standardized Precipitation Evapotranspiration Index
+MEGA2: molecular evolutionary genetics analysis software
+MATPOWER: Steady-State Operations, Planning, and Analysis Tools for Power Systems Research and Education
+Evaluating the added predictive ability of a new marker: From area under the ROC curve to reclassification and beyond
+2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTS
+Regression Modeling Strategies
+Modified disease activity scores that include twenty-eight-joint counts development and validation in a prospective longitudinal study of patients with rheumatoid arthritis
+On the Assessment of Surface Heat Flux and Evaporation Using Large-Scale Parameters
+Prognostic Implications of Echocardiographically Determined Left Ventricular Mass in the Framingham Heart Study
+Increasing Solar Absorption for Photocatalysis with Black Hydrogenated Titanium Dioxide Nanocrystals
+Heart Disease and Stroke Statistics—2020 Update: A Report From the American Heart Association
+DNA Methyltransferases Dnmt3a and Dnmt3b Are Essential for De Novo Methylation and Mammalian Development
+Sunitinib versus Interferon Alfa in Metastatic Renal-Cell Carcinoma
+Tumor Angiogenesis and Metastasis — Correlation in Invasive Breast Carcinoma
+Cancer Statistics, 2005
+Stigma: Notes on the Management of Spoiled Identity
+Comparative physiology of salt and water stress
+Global threats to human water security and river biodiversity
+A Powder Technique for the Evaluation of Nonlinear Optical Materials
+SENSE: Sensitivity encoding for fast MRI
+UFBoot2: Improving the Ultrafast Bootstrap Approximation
+Statistical Decision Theory and Bayesian Analysis
+Management of hepatocellular carcinoma
+Identification of prokaryotic and eukaryotic signal peptides and prediction of their cleavage sites
+Li-ion battery materials: present and future
+CLUMPP: a cluster matching and permutation program for dealing with label switching and multimodality in analysis of population structure
+A microRNA expression signature of human solid tumors defines cancer gene targets
+Standards for Reporting Qualitative Research
+Quantifying biodiversity: procedures and pitfalls in the measurement and comparison of species richness
+Global and societal implications of the diabetes epidemic
+The random subspace method for constructing decision forests
+MR diffusion tensor spectroscopy and imaging
+AKT/PKB Signaling: Navigating Downstream
+Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations
+Industry costs of equity
+2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure
+TOR Signaling in Growth and Metabolism
+A Randomized Trial of Intraarterial Treatment for Acute Ischemic Stroke
+Inflammation, Aspirin, and the Risk of Cardiovascular Disease in Apparently Healthy Men
+Effectiveness of Antipsychotic Drugs in Patients with Chronic Schizophrenia
+Infectious Diseases Society of America/American Thoracic Society Consensus Guidelines on the Management of Community-Acquired Pneumonia in Adults
+Stable Isotope Labeling by Amino Acids in Cell Culture, SILAC, as a Simple and Accurate Approach to Expression Proteomics
+Metabolic syndrome—a new world‐wide definition. A Consensus Statement from the International Diabetes Federation
+DrugBank 5.0: a major update to the DrugBank database for 2018
+Erlotinib in Previously Treated Non–Small-Cell Lung Cancer
+Impulses and Physiological States in Theoretical Models of Nerve Membrane
+Canu: scalable and accurate long-read assembly via adaptive <i>k</i>-mer weighting and repeat separation
+Perioperative Chemotherapy versus Surgery Alone for Resectable Gastroesophageal Cancer
+A physically based, variable contributing area model of basin hydrology / Un modèle à base physique de zone d'appel variable de l'hydrologie du bassin versant
+Real Spectra in Non-Hermitian Hamiltonians Having<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi mathvariant="bold-script">P</mml:mi><mml:mi mathvariant="bold-script">T</mml:mi></mml:math>Symmetry
+Sectoral patterns of technical change: Towards a taxonomy and a theory
+Obesity alters gut microbial ecology
+Isolation of a pluripotent cell line from early mouse embryos cultured in medium conditioned by teratocarcinoma stem cells.
+X-Ray Interactions: Photoabsorption, Scattering, Transmission, and Reflection at E = 50-30,000 eV, Z = 1-92
+THE ESTIMATION OF MAP DISTANCES FROM RECOMBINATION VALUES
+Major Outcomes in High-Risk Hypertensive Patients Randomized to Angiotensin-Converting Enzyme Inhibitor or Calcium Channel Blocker vs Diuretic: The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT)
+An Integrated Genomic Analysis of Human Glioblastoma Multiforme
+Preoperative versus Postoperative Chemoradiotherapy for Rectal Cancer
+Multiple Attribute Decision Making
+Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015
+Docetaxel plus Prednisone or Mitoxantrone plus Prednisone for Advanced Prostate Cancer
+A Clinical Trial of the Effects of Dietary Patterns on Blood Pressure
+A human homologue of the Drosophila Toll protein signals activation of adaptive immunity
+Factors Associated With Mental Health Outcomes Among Health Care Workers Exposed to Coronavirus Disease 2019
+Updated high‐resolution grids of monthly climatic observations – the <scp>CRU TS3</scp>.10 Dataset
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:msub><mml:mi>Z</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>Topological Order and the Quantum Spin Hall Effect
+2D metal carbides and nitrides (MXenes) for energy storage
+Neural Machine Translation of Rare Words with Subword Units
+Tamoxifen for Prevention of Breast Cancer: Report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study
+Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China
+The cosmological simulation code gadget-2
+Cancer Statistics, 2006
+Variations in pattern of pubertal changes in girls.
+Friction stir welding and processing
+What is Twitter, a social network or a news media?
+SIFT: predicting amino acid changes that affect protein function
+Radiomics: Images Are More than Pictures, They Are Data
+Global food demand and the sustainable intensification of agriculture
+A critical review of high entropy alloys and related concepts
+Efficacy and safety of more intensive lowering of LDL cholesterol: a meta-analysis of data from 170 000 participants in 26 randomised trials
+Likelihood Ratio Tests for Model Selection and Non-Nested Hypotheses
+Treatment of Deep Cartilage Defects in the Knee with Autologous Chondrocyte Transplantation
+The Shuttle Radar Topography Mission
+The gut microbiota as an environmental factor that regulates fat storage
+Distantly related sequences in the alpha- and beta-subunits of ATP synthase, myosin, kinases and other ATP-requiring enzymes and a common nucleotide binding fold.
+Numerical Optimization
+S<scp>ALT AND</scp> D<scp>ROUGHT</scp> S<scp>TRESS</scp> S<scp>IGNAL</scp> T<scp>RANSDUCTION IN</scp> P<scp>LANTS</scp>
+Osteoprotegerin Ligand Is a Cytokine that Regulates Osteoclast Differentiation and Activation
+Estimating the global cancer incidence and mortality in 2018: GLOBOCAN sources and methods
+A New Vertical Diffusion Package with an Explicit Treatment of Entrainment Processes
+A statistical framework for SNP calling, mutation discovery, association mapping and population genetical parameter estimation from sequencing data
+Content analysis and thematic analysis: Implications for conducting a qualitative descriptive study
+Particulate Matter Air Pollution and Cardiovascular Disease
+2016 European Guidelines on cardiovascular disease prevention in clinical practice
+Overview of the H.264/AVC video coding standard
+Expert consensus document on arterial stiffness: methodological issues and clinical applications
+Primary Prevention of Acute Coronary Events With Lovastatin in Men and Women With Average Cholesterol Levels
+Active learning increases student performance in science, engineering, and mathematics
+Pfam: the protein families database
+Cell Signaling by Receptor Tyrosine Kinases
+A metrics suite for object oriented design
+Wnt/β-Catenin Signaling in Development and Disease
+European Guidelines on cardiovascular disease prevention in clinical practice (version 2012): The Fifth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of nine societies and by invited experts) * Developed with the special contribution of the European Association for Cardiovascular Prevention &amp; Rehabilitation (EACPR)
+Linking Long-Term Dietary Patterns with Gut Microbial Enterotypes
+The Female Sexual Function Index (FSFI): A Multidimensional Self-Report Instrument for the Assessment of Female Sexual Function
+Cognitive Load During Problem Solving: Effects on Learning
+Sequential Monte Carlo Methods in Practice
+Heart Disease and Stroke Statistics—2018 Update: A Report From the American Heart Association
+Efficient presentation of soluble antigen by cultured human dendritic cells is maintained by granulocyte/macrophage colony-stimulating factor plus interleukin 4 and downregulated by tumor necrosis factor alpha.
+Definition of Metabolic Syndrome
+Element‐free Galerkin methods
+The Inflammasome
+Targeting of HIF-α to the von Hippel-Lindau Ubiquitylation Complex by O<sub>2</sub>-Regulated Prolyl Hydroxylation
+A model for technical inefficiency effects in a stochastic frontier production function for panel data
+RNAmmer: consistent and rapid annotation of ribosomal RNA genes
+Multifactor Explanations of Asset Pricing Anomalies
+Pembrolizumab for the Treatment of Non–Small-Cell Lung Cancer
+Measuring the thickness of the human cerebral cortex from magnetic resonance images
+Corporate Governance and Equity Prices
+THE UNLABELED ANTIBODY ENZYME METHOD OF IMMUNOHISTOCHEMISTRY PREPARATION AND PROPERTIES OF SOLUBLE ANTIGEN-ANTIBODY COMPLEX (HORSERADISH PEROXIDASE-ANTIHORSERADISH PEROXIDASE) AND ITS USE IN IDENTIFICATION OF SPIROCHETES
+Endothelial cell infection and endotheliitis in COVID-19
+Signet-Ring Cell Carcinoma of the Colon: A Case Report and Review of the Literature
+Physical Activity and Public Health
+The carbohydrate-active enzymes database (CAZy) in 2013
+Revised 2003 consensus on diagnostic criteria and long-term health risks related to polycystic ovary syndrome
+AN EVALUATION OF TECHNIQUES FOR MEASURING VESICULAR ARBUSCULAR MYCORRHIZAL INFECTION IN ROOTS
+deepTools2: a next generation web server for deep-sequencing data analysis
+Estimating the reproducibility of psychological science
+Sparse inverse covariance estimation with the graphical lasso
+Biological roles of oligosaccharides: all of the theories are correct
+Algebraic Geometry
+Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls
+Trastuzumab plus Adjuvant Chemotherapy for Operable HER2-Positive Breast Cancer
+Modeling of species distributions with Maxent: new extensions and a comprehensive evaluation
+Ranibizumab for Neovascular Age-Related Macular Degeneration
+2D materials and van der Waals heterostructures
+Clinical End Points in Coronary Stent Trials
+NOMENCLATURE FOR CENTROMERIC POSITION ON CHROMOSOMES
+Evaluation of Diagnostic Criteria for Ankylosing Spondylitis
+Orexins and Orexin Receptors: A Family of Hypothalamic Neuropeptides and G Protein-Coupled Receptors that Regulate Feeding Behavior
+Metabolic Endotoxemia Initiates Obesity and Insulin Resistance
+Establishment of a noradrenergic clonal line of rat adrenal pheochromocytoma cells which respond to nerve growth factor.
+KEGG for linking genomes to life and the environment
+Sequence from picomole quantities of proteins electroblotted onto polyvinylidene difluoride membranes.
+2015 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension
+The Effect of Angiotensin-Converting-Enzyme Inhibition on Diabetic Nephropathy
+Treatment of Comatose Survivors of Out-of-Hospital Cardiac Arrest with Induced Hypothermia
+III. An essay on the cohesion of fluids
+Angiotensin–Neprilysin Inhibition versus Enalapril in Heart Failure
+ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure 2012: The Task Force for the Diagnosis and Treatment of Acute and Chronic Heart Failure 2012 of the European Society of Cardiology. Developed in collaboration with the Heart Failure Association (HFA) of the ESC
+Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes
+Gaussian-Type Functions for Polyatomic Systems. I
+<i>IDH1</i>and<i>IDH2</i>Mutations in Gliomas
+2017 ESC/EACTS Guidelines for the management of valvular heart disease
+SWISS-MODEL: an automated protein homology-modeling server
+Vector Quantization and Signal Compression
+Global, regional, and national age-sex-specific mortality for 282 causes of death in 195 countries and territories, 1980–2017: a systematic analysis for the Global Burden of Disease Study 2017
+KEGG as a reference resource for gene and protein annotation
+<i>publCIF</i>: software for editing, validating and formatting crystallographic information files
+Recognition-by-components: A theory of human image understanding.
+Markov Decision Processes
+Microplastics in the marine environment
+The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: Building an International Consensus for the Reporting of Behavior Change Interventions
+Interobserver agreement for the assessment of handicap in stroke patients.
+Deciphering key features in protein structures with the new ENDscript server
+Prevention of Cardiovascular Events and Death with Pravastatin in Patients with Coronary Heart Disease and a Broad Range of Initial Cholesterol Levels
+Randomized Assessment of Rapid Endovascular Treatment of Ischemic Stroke
+Expectancy–Value Theory of Achievement Motivation
+Superoxide Dismutases
+Profile hidden Markov models.
+CHOP Chemotherapy plus Rituximab Compared with CHOP Alone in Elderly Patients with Diffuse Large-B-Cell Lymphoma
+Development of Virus-Like Particle Technology from Small Highly Symmetric to Large Complex Virus-Like Particle Structures
+Rapid and simple method for purification of nucleic acids
+Resilience, Adaptability and Transformability in Social-ecological Systems
+Efficacy and Safety of a Specific Inhibitor of the BCR-ABL Tyrosine Kinase in Chronic Myeloid Leukemia
+Chronic inflammation in fat plays a crucial role in the development of obesity-related insulin resistance
+A Direct Approach to False Discovery Rates
+Induction of Apoptotic Program in Cell-Free Extracts: Requirement for dATP and Cytochrome c
+Approximate entropy as a measure of system complexity.
+Mapping mendelian factors underlying quantitative traits using RFLP linkage maps.
+ClueGO: a Cytoscape plug-in to decipher functionally grouped gene ontology and pathway annotation networks
+The Pascal Visual Object Classes Challenge: A Retrospective
+Health Effects of Overweight and Obesity in 195 Countries over 25 Years
+Effects on Blood Pressure of Reduced Dietary Sodium and the Dietary Approaches to Stop Hypertension (DASH) Diet
+Open for innovation: the role of openness in explaining innovation performance among U.K. manufacturing firms
+Islet Transplantation in Seven Patients with Type 1 Diabetes Mellitus Using a Glucocorticoid-Free Immunosuppressive Regimen
+Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013
+Regression Models and Life‐Tables
+Apoptosis by Death Factor
+The incidence of congenital heart disease
+Multiple sequence alignment with hierarchical clustering
+The least-squares line and plane and the analysis of palaeomagnetic data
+Epidemiology of multimorbidity and implications for health care, research, and medical education: a cross-sectional study
+A Bivalent Chromatin Structure Marks Key Developmental Genes in Embryonic Stem Cells
+Heart Disease and Stroke Statistics—2015 Update
+Antihyperlipidemic and Biochemical Activities of Mcy Protein in Streptozotocin Induced Diabetic Rats
+TGF-β SIGNAL TRANSDUCTION
+ape 5.0: an environment for modern phylogenetics and evolutionary analyses in R
+Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015
+Discussion Reporting of <sup>14</sup>C Data
+Electron emission in intense electric fields
+Shifting the genomic gold standard for the prokaryotic species definition
+Mismatch repair deficiency predicts response of solid tumors to PD-1 blockade
+Africa's Growth Tragedy: Policies and Ethnic Divisions
+Classification criteria for Sjogren's syndrome: a revised version of the European criteria proposed by the American-European Consensus Group
+Prediction of Mammalian MicroRNA Targets
+The Pfam protein families database: towards a more sustainable future
+An Introduction to Statistical Modeling of Extreme Values
+Phylogenetic identification and in situ detection of individual microbial cells without cultivation
+PartitionFinder: Combined Selection of Partitioning Schemes and Substitution Models for Phylogenetic Analyses
+Wnt/β-Catenin Signaling: Components, Mechanisms, and Diseases
+mTOR Signaling in Growth, Metabolism, and Disease
+ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation
+Building Predictive Models in<i>R</i>Using the<b>caret</b>Package
+The theory and practice of corporate finance: evidence from the field
+Osteoprotegerin: A Novel Secreted Protein Involved in the Regulation of Bone Density
+Movement Disorder Society‐sponsored revision of the Unified Parkinson's Disease Rating Scale (MDS‐UPDRS): Scale presentation and clinimetric testing results
+Sexual Dysfunction in the United States
+Parkinson's Disease
+Fast Stable Restricted Maximum Likelihood and Marginal Likelihood Estimation of Semiparametric Generalized Linear Models
+2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults
+Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128·9 million children, adolescents, and adults
+The Quality of Health Care Delivered to Adults in the United States
+Prions
+The Carbohydrate-Active EnZymes database (CAZy): an expert resource for Glycogenomics
+Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis
+DNA Double-stranded Breaks Induce Histone H2AX Phosphorylation on Serine 139
+EASL–EORTC Clinical Practice Guidelines: Management of hepatocellular carcinoma
+Mild Therapeutic Hypothermia to Improve the Neurologic Outcome after Cardiac Arrest
+First Case of 2019 Novel Coronavirus in the United States
+Iodide management in formamidinium-lead-halide–based perovskite layers for efficient solar cells
+2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk
+Autophagy: Renovation of Cells and Tissues
+Bootstrap Methods and their Application
+RELION: Implementation of a Bayesian approach to cryo-EM structure determination
+Modeling Survival Data: Extending the Cox Model
+A Randomized Trial of Intensive versus Standard Blood-Pressure Control
+Sliding Modes in Control and Optimization
+The use of DAPI for identifying and counting aquatic microflora1
+Sipuleucel-T Immunotherapy for Castration-Resistant Prostate Cancer
+No Adjustments Are Needed for Multiple Comparisons
+Isolation of a Novel Coronavirus from a Man with Pneumonia in Saudi Arabia
+REVIEW OF COMMUNITY-BASED RESEARCH: Assessing Partnership Approaches to Improve Public Health
+The<i>Gaia</i>mission
+Frequent deletions and down-regulation of micro- RNA genes <i>miR15</i> and <i>miR16</i> at 13q14 in chronic lymphocytic leukemia
+MapChart: Software for the Graphical Presentation of Linkage Maps and QTLs
+Nivolumab versus Everolimus in Advanced Renal-Cell Carcinoma
+Isogeometric analysis: CAD, finite elements, NURBS, exact geometry and mesh refinement
+Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis
+Association between Water Intake, Chronic Kidney Disease, and Cardiovascular Disease: A Cross-Sectional Analysis of NHANES Data
+Direct activation of calcium-activated, phospholipid-dependent protein kinase by tumor-promoting phorbol esters.
+New methods for calculating metabolic rate with special reference to protein metabolism
+Pembrolizumab versus Ipilimumab in Advanced Melanoma
+Trastuzumab after Adjuvant Chemotherapy in HER2-Positive Breast Cancer
+2011 Compendium of Physical Activities
+The retinoblastoma protein and cell cycle control
+Rehospitalizations among Patients in the Medicare Fee-for-Service Program
+Cetuximab Monotherapy and Cetuximab plus Irinotecan in Irinotecan-Refractory Metastatic Colorectal Cancer
+Lanthanum Chloride Inhibits LPS Mediated Expressions of Pro-Inflammatory Cytokines and Adhesion Molecules in HUVECs: Involvement of NF-κB-Jmjd3 Signaling
+Adipose Tissue as an Endocrine Organ
+The diagnosis and management of nonalcoholic fatty liver disease: Practice guidance from the American Association for the Study of Liver Diseases
+Diarrheagenic <i>Escherichia coli</i>
+Endovascular Therapy for Ischemic Stroke with Perfusion-Imaging Selection
+How does foreign direct investment affect economic growth?
+Improved side‐chain torsion potentials for the Amber ff99SB protein force field
+A Surgical Safety Checklist to Reduce Morbidity and Mortality in a Global Population
+Do Investment-Cash Flow Sensitivities Provide Useful Measures of Financing Constraints?
+<i>Stan</i>: A Probabilistic Programming Language
+Lessons from Hereditary Colorectal Cancer
+A working guide to boosted regression trees
+Additive manufacturing of metallic components – Process, structure and properties
+Comprehensive Identification of Cell Cycle–regulated Genes of the Yeast<i>Saccharomyces cerevisiae</i>by Microarray Hybridization
+SOCIAL NETWORKS, HOST RESISTANCE, AND MORTALITY: A NINE-YEAR FOLLOW-UP STUDY OF ALAMEDA COUNTY RESIDENTS
+UniProt: the universal protein knowledgebase in 2021
+Oncology Meets Immunology: The Cancer-Immunity Cycle
+Validation of Clinical Classification Schemes for Predicting Stroke
+The Orphan Nuclear Receptor RORγt Directs the Differentiation Program of Proinflammatory IL-17+ T Helper Cells
+Radiotherapy plus Cetuximab for Squamous-Cell Carcinoma of the Head and Neck
+Nivolumab in Previously Untreated Melanoma without<i>BRAF</i>Mutation
+A Multicenter, Randomized, Controlled Clinical Trial of Transfusion Requirements in Critical Care
+IDF Diabetes Atlas: Global estimates of diabetes prevalence for 2017 and projections for 2045
+Wnt/β-Catenin Signaling and Disease
+Summaries of Affymetrix GeneChip probe level data
+Hospital Volume and Surgical Mortality in the United States
+Base-Calling of Automated Sequencer Traces Using <i>Phred.</i> II. Error Probabilities
+The Log of Gravity
+Electron-hole diffusion lengths &gt; 175 μm in solution-grown CH <sub>3</sub> NH <sub>3</sub> PbI <sub>3</sub> single crystals
+Estimation of ten-year risk of fatal cardiovascular disease in Europe: the SCORE project
+<i>Planck</i>2013 results. XVI. Cosmological parameters

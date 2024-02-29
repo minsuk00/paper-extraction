@@ -1,0 +1,99 @@
+4.Zhang et al. - 2023 - Meta-Transformer A Unified Framework for Multimod.pdf.txt
+5.Lin et al. - Mind Reader Reconstructing complex images from br.pdf.txt
+6.Park and Kim - 2022 - How Do Vision Transformers Work.pdf.txt
+7.Liu et al. - 2022 - Reference-free Summarization Evaluation via Semant.pdf.txt
+8.Zeng et al. - 2023 - Controllable Mind Visual Diffusion Model.pdf.txt
+9.Singer et al. - 2022 - Make-A-Video Text-to-Video Generation without Tex.pdf.txt
+10.Koh et al. - 2023 - Generating Images with Multimodal Language Models.pdf.txt
+11.Pan et al. - 2024 - ActAnywhere Subject-Aware Video Background Genera.pdf.txt
+12.Zhang et al. - 2023 - Adding Conditional Control to Text-to-Image Diffus.pdf.txt
+13.Li et al. - 2023 - GLIGEN Open-Set Grounded Text-to-Image Generation.pdf.txt
+14.Li et al. - 2022 - BLIP Bootstrapping Language-Image Pre-training fo.pdf.txt
+15.Chen et al. - 2021 - A Training-free and Reference-free Summarization E.pdf.txt
+16.Yun et al. - 2023 - IFSeg Image-free Semantic Segmentation via Vision.pdf.txt
+17.Pai et al. - 2023 - A Survey on Brain-Computer Interface and Related A.pdf.txt
+18.Rombach et al. - 2022 - High-Resolution Image Synthesis with Latent Diffus.pdf.txt
+19.Mo et al. - 2023 - S-CLIP Semi-supervised Vision-Language Learning u.pdf.txt
+20.Dosovitskiy et al. - 2021 - An Image is Worth 16x16 Words Transformers for Im.pdf.txt
+21.Radford et al. - 2021 - Learning Transferable Visual Models From Natural L.pdf.txt
+22.Liang et al. - 2023 - Foundations and Trends in Multimodal Machine Learn.pdf.txt
+23.Wu et al. - 2023 - Tune-A-Video One-Shot Tuning of Image Diffusion M.pdf.txt
+24.Johnson et al. - 2018 - Image Generation from Scene Graphs.pdf.txt
+25.Yin et al. - 2023 - A Survey on Multimodal Large Language Models.pdf.txt
+26.Egan et al. - 2021 - Play the Shannon Game With Language Models A Huma.pdf.txt
+27.Spampinato et al. - 2017 - Deep Learning Human Mind for Automated Visual Clas.pdf.txt
+28.Cideron et al. - 2024 - MusicRL Aligning Music Generation to Human Prefer.pdf.txt
+29.Peksa and Mamchur - 2023 - State-of-the-Art on Brain-Computer Interface Techn.pdf.txt
+30.Kumar et al. - 2018 - Envisioned speech recognition using EEG sensors.pdf.txt
+31.Cachola et al. - 2020 - TLDR Extreme Summarization of Scientific Document.pdf.txt
+32.Guo et al. - 2019 - Deep Multimodal Representation Learning A Survey.pdf.txt
+33.Liu et al. - 2023 - G-Eval NLG Evaluation using Gpt-4 with Better Hum.pdf.txt
+34.Miyato et al. - 2018 - Spectral Normalization for Generative Adversarial .pdf.txt
+35.Vasilyev et al. - 2020 - Fill in the BLANC Human-free quality estimation o.pdf.txt
+36.Girdhar et al. - Factorizing Text-to-Video Generation by Explicit I.pdf.txt
+37.Tsimpoukelli et al. - 2021 - Multimodal Few-Shot Learning with Frozen Language .pdf.txt
+38.Avola et al. - 2022 - Analyzing EEG Data with Machine and Deep Learning.pdf.txt
+39.Yao et al. - 2023 - ReAct Synergizing Reasoning and Acting in Languag.pdf.txt
+40.Dhariwal and Nichol - 2021 - Diffusion Models Beat GANs on Image Synthesis.pdf.txt
+41.Yasmin et al. - 2012 - Brain Image Reconstruction A Short Survey.pdf.txt
+42.Li et al. - 2022 - Grounded Language-Image Pre-training.pdf.txt
+43.Wang et al. - 2022 - SimVLM Simple Visual Language Model Pretraining w.pdf.txt
+44.Karpathy and Fei-Fei - Deep Visual-Semantic Alignments for Generating Ima.pdf.txt
+45.Kamath et al. - 2021 - MDETR -- Modulated Detection for End-to-End Multi-.pdf.txt
+46.Mai et al. - 2024 - Brain-Conditional Multimodal Synthesis A Survey a.pdf.txt
+47.Lu et al. - 2023 - MindDiffuser Controlled Image Reconstruction from.pdf.txt
+48.Singh et al. - 2023 - Learning Robust Deep Visual Representations from E.pdf.txt
+49.Nichol et al. - 2022 - GLIDE Towards Photorealistic Image Generation and.pdf.txt
+50.Défossez et al. - 2023 - Decoding speech perception from non-invasive brain.pdf.txt
+51.Mirza and Osindero - 2014 - Conditional Generative Adversarial Nets.pdf.txt
+52.Hayes et al. - 2022 - MUGEN A Playground for Video-Audio-Text Multimoda.pdf.txt
+53.Fabbri et al. - 2021 - SummEval Re-evaluating Summarization Evaluation.pdf.txt
+54.Zheng et al. - 2020 - Decoding human brain activity with deep learning.pdf.txt
+55.Lim and Ye - 2017 - Geometric GAN.pdf.txt
+56.Palazzo et al. - 2020 - Decoding Brain Representations by Multimodal Learn.pdf.txt
+57.Rasyad et al. - 2023 - A Systematic Literature Review of Generative Adver.pdf.txt
+58.Lu - 2023 - Visualizing the mind's eye a future perspective o.pdf.txt
+59.Zhang et al. - MM-LLMs Recent Advances in MultiModal Large Langu.pdf.txt
+60.Sheynin et al. - Emu Edit Precise Image Editing via Recognition an.pdf.txt
+61.Cho et al. - 2021 - Unifying Vision-and-Language Tasks via Text Genera.pdf.txt
+62.Kirillov et al. - 2023 - Segment Anything.pdf.txt
+63.He et al. - 2021 - Masked Autoencoders Are Scalable Vision Learners.pdf.txt
+64.Beltagy et al. - Longformer The Long-Document Transformer.pdf.txt
+65.Yoshida and Ohki - 2020 - Natural images are reliably represented by sparse .pdf.txt
+66.Hertz et al. - 2022 - Prompt-to-Prompt Image Editing with Cross Attentio.pdf.txt
+67.He et al. - Thinking Image Color Aesthetics Assessment Models.pdf.txt
+68.Arjovsky et al. - 2017 - Wasserstein GAN.pdf.txt
+69.Schneider et al. - 2023 - Learnable latent embeddings for joint behavioural .pdf.txt
+70.Couairon et al. - 2022 - DiffEdit Diffusion-based semantic image editing w.pdf.txt
+71.Gupta et al. - 2024 - RAG vs Fine-tuning Pipelines, Tradeoffs, and a Ca.pdf.txt
+72.Li et al. - 2021 - Align before Fuse Vision and Language Representat.pdf.txt
+73.Liew et al. - 2022 - MagicMix Semantic Mixing with Diffusion Models.pdf.txt
+74.Avrahami et al. - 2022 - Blended Diffusion for Text-driven Editing of Natur.pdf.txt
+75.Singh et al. - 2023 - EEG2IMAGE Image Reconstruction from EEG Brain Sig.pdf.txt
+76.Frolov et al. - 2021 - Adversarial Text-to-Image Synthesis A Review.pdf.txt
+77.Tumanyan et al. - 2023 - Plug-and-Play Diffusion Features for Text-Driven I.pdf.txt
+78.Mai and Zhang - 2023 - UniBrain Unify Image Reconstruction and Captionin.pdf.txt
+79.Girdhar et al. - 2023 - ImageBind One Embedding Space To Bind Them All.pdf.txt
+80.Zhao et al. - 2019 - Document Summarization using Word and Part-of-spee.pdf.txt
+81.Ronneberger et al. - 2015 - U-Net Convolutional Networks for Biomedical Image.pdf.txt
+82.Lewis et al. - 2020 - BART Denoising Sequence-to-Sequence Pre-training .pdf.txt
+83.Ren et al. - 2021 - Reconstructing seen image from brain activity by v.pdf.txt
+84.Jia et al. - 2021 - Scaling Up Visual and Vision-Language Representati.pdf.txt
+85.Goodfellow et al. - 2014 - Generative Adversarial Networks.pdf.txt
+86.Liu and Lapata - 2019 - Text Summarization with Pretrained Encoders.pdf.txt
+87.Wu et al. - 2023 - NExT-GPT Any-to-Any Multimodal LLM.pdf.txt
+88.Cherti et al. - 2022 - Reproducible scaling laws for contrastive language.pdf.txt
+89.Yao et al. - 2023 - Tree of Thoughts Deliberate Problem Solving with .pdf.txt
+90.Kavasidis et al. - 2017 - Brain2Image Converting Brain Signals into .pdf.txt
+91.Walther et al. - 2023 - A systematic comparison of deep learning methods f.pdf.txt
+92.Takagi and Nishimoto - 2022 - High-resolution image reconstruction with latent d.pdf.txt
+93.Betker et al. - Improving Image Generation with Better Captions.pdf.txt
+94.Widyassari et al. - 2022 - Review of automatic text summarization techniques .pdf.txt
+95.Elasri et al. - 2022 - Image Generation A Review.pdf.txt
+96.Jeong et al. - 2023 - WinCLIP Zero-Few-Shot Anomaly Classification and.pdf.txt
+97.Demilie - 2022 - Comparative Analysis of Automated Text Summarizati.pdf.txt
+98.Gao et al. - Human-like Summarization Evaluation with ChatGPT.pdf.txt
+99.Alayrac et al. - 2022 - Flamingo a Visual Language Model for Few-Shot Lea.pdf.txt
+100.Yang et al. - 2022 - An Empirical Study of GPT-3 for Few-Shot Knowledge.pdf.txt
+101.Schuhmann et al. - LAION-5B An open large-scale dataset for training.pdf.txt
+102.Giarelis et al. - 2023 - Abstractive vs. Extractive Summarization An Exper.pdf.txt

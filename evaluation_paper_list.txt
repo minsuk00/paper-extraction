@@ -1,100 +1,1000 @@
-3.Parmar et al. - 2023 - Zero-shot Image-to-Image Translation.pdf.txt
-4.Zhang et al. - 2023 - Meta-Transformer A Unified Framework for Multimod.pdf.txt
-5.Lin et al. - Mind Reader Reconstructing complex images from br.pdf.txt
-6.Park and Kim - 2022 - How Do Vision Transformers Work.pdf.txt
-7.Liu et al. - 2022 - Reference-free Summarization Evaluation via Semant.pdf.txt
-8.Zeng et al. - 2023 - Controllable Mind Visual Diffusion Model.pdf.txt
-9.Singer et al. - 2022 - Make-A-Video Text-to-Video Generation without Tex.pdf.txt
-10.Koh et al. - 2023 - Generating Images with Multimodal Language Models.pdf.txt
-11.Pan et al. - 2024 - ActAnywhere Subject-Aware Video Background Genera.pdf.txt
-12.Zhang et al. - 2023 - Adding Conditional Control to Text-to-Image Diffus.pdf.txt
-13.Li et al. - 2023 - GLIGEN Open-Set Grounded Text-to-Image Generation.pdf.txt
-14.Li et al. - 2022 - BLIP Bootstrapping Language-Image Pre-training fo.pdf.txt
-15.Chen et al. - 2021 - A Training-free and Reference-free Summarization E.pdf.txt
-16.Yun et al. - 2023 - IFSeg Image-free Semantic Segmentation via Vision.pdf.txt
-17.Pai et al. - 2023 - A Survey on Brain-Computer Interface and Related A.pdf.txt
-18.Rombach et al. - 2022 - High-Resolution Image Synthesis with Latent Diffus.pdf.txt
-19.Mo et al. - 2023 - S-CLIP Semi-supervised Vision-Language Learning u.pdf.txt
-20.Dosovitskiy et al. - 2021 - An Image is Worth 16x16 Words Transformers for Im.pdf.txt
-21.Radford et al. - 2021 - Learning Transferable Visual Models From Natural L.pdf.txt
-22.Liang et al. - 2023 - Foundations and Trends in Multimodal Machine Learn.pdf.txt
-23.Wu et al. - 2023 - Tune-A-Video One-Shot Tuning of Image Diffusion M.pdf.txt
-24.Johnson et al. - 2018 - Image Generation from Scene Graphs.pdf.txt
-25.Yin et al. - 2023 - A Survey on Multimodal Large Language Models.pdf.txt
-26.Egan et al. - 2021 - Play the Shannon Game With Language Models A Huma.pdf.txt
-27.Spampinato et al. - 2017 - Deep Learning Human Mind for Automated Visual Clas.pdf.txt
-28.Cideron et al. - 2024 - MusicRL Aligning Music Generation to Human Prefer.pdf.txt
-29.Peksa and Mamchur - 2023 - State-of-the-Art on Brain-Computer Interface Techn.pdf.txt
-30.Kumar et al. - 2018 - Envisioned speech recognition using EEG sensors.pdf.txt
-31.Cachola et al. - 2020 - TLDR Extreme Summarization of Scientific Document.pdf.txt
-32.Guo et al. - 2019 - Deep Multimodal Representation Learning A Survey.pdf.txt
-33.Liu et al. - 2023 - G-Eval NLG Evaluation using Gpt-4 with Better Hum.pdf.txt
-34.Miyato et al. - 2018 - Spectral Normalization for Generative Adversarial .pdf.txt
-35.Vasilyev et al. - 2020 - Fill in the BLANC Human-free quality estimation o.pdf.txt
-36.Girdhar et al. - Factorizing Text-to-Video Generation by Explicit I.pdf.txt
-37.Tsimpoukelli et al. - 2021 - Multimodal Few-Shot Learning with Frozen Language .pdf.txt
-38.Avola et al. - 2022 - Analyzing EEG Data with Machine and Deep Learning.pdf.txt
-39.Yao et al. - 2023 - ReAct Synergizing Reasoning and Acting in Languag.pdf.txt
-40.Dhariwal and Nichol - 2021 - Diffusion Models Beat GANs on Image Synthesis.pdf.txt
-41.Yasmin et al. - 2012 - Brain Image Reconstruction A Short Survey.pdf.txt
-42.Li et al. - 2022 - Grounded Language-Image Pre-training.pdf.txt
-43.Wang et al. - 2022 - SimVLM Simple Visual Language Model Pretraining w.pdf.txt
-44.Karpathy and Fei-Fei - Deep Visual-Semantic Alignments for Generating Ima.pdf.txt
-45.Kamath et al. - 2021 - MDETR -- Modulated Detection for End-to-End Multi-.pdf.txt
-46.Mai et al. - 2024 - Brain-Conditional Multimodal Synthesis A Survey a.pdf.txt
-47.Lu et al. - 2023 - MindDiffuser Controlled Image Reconstruction from.pdf.txt
-48.Singh et al. - 2023 - Learning Robust Deep Visual Representations from E.pdf.txt
-49.Nichol et al. - 2022 - GLIDE Towards Photorealistic Image Generation and.pdf.txt
-50.Défossez et al. - 2023 - Decoding speech perception from non-invasive brain.pdf.txt
-51.Mirza and Osindero - 2014 - Conditional Generative Adversarial Nets.pdf.txt
-52.Hayes et al. - 2022 - MUGEN A Playground for Video-Audio-Text Multimoda.pdf.txt
-53.Fabbri et al. - 2021 - SummEval Re-evaluating Summarization Evaluation.pdf.txt
-54.Zheng et al. - 2020 - Decoding human brain activity with deep learning.pdf.txt
-55.Lim and Ye - 2017 - Geometric GAN.pdf.txt
-56.Palazzo et al. - 2020 - Decoding Brain Representations by Multimodal Learn.pdf.txt
-57.Rasyad et al. - 2023 - A Systematic Literature Review of Generative Adver.pdf.txt
-58.Lu - 2023 - Visualizing the mind's eye a future perspective o.pdf.txt
-59.Zhang et al. - MM-LLMs Recent Advances in MultiModal Large Langu.pdf.txt
-60.Sheynin et al. - Emu Edit Precise Image Editing via Recognition an.pdf.txt
-61.Cho et al. - 2021 - Unifying Vision-and-Language Tasks via Text Genera.pdf.txt
-62.Kirillov et al. - 2023 - Segment Anything.pdf.txt
-63.He et al. - 2021 - Masked Autoencoders Are Scalable Vision Learners.pdf.txt
-64.Beltagy et al. - Longformer The Long-Document Transformer.pdf.txt
-65.Yoshida and Ohki - 2020 - Natural images are reliably represented by sparse .pdf.txt
-66.Hertz et al. - 2022 - Prompt-to-Prompt Image Editing with Cross Attentio.pdf.txt
-67.He et al. - Thinking Image Color Aesthetics Assessment Models.pdf.txt
-68.Arjovsky et al. - 2017 - Wasserstein GAN.pdf.txt
-69.Schneider et al. - 2023 - Learnable latent embeddings for joint behavioural .pdf.txt
-70.Couairon et al. - 2022 - DiffEdit Diffusion-based semantic image editing w.pdf.txt
-71.Gupta et al. - 2024 - RAG vs Fine-tuning Pipelines, Tradeoffs, and a Ca.pdf.txt
-72.Li et al. - 2021 - Align before Fuse Vision and Language Representat.pdf.txt
-73.Liew et al. - 2022 - MagicMix Semantic Mixing with Diffusion Models.pdf.txt
-74.Avrahami et al. - 2022 - Blended Diffusion for Text-driven Editing of Natur.pdf.txt
-75.Singh et al. - 2023 - EEG2IMAGE Image Reconstruction from EEG Brain Sig.pdf.txt
-76.Frolov et al. - 2021 - Adversarial Text-to-Image Synthesis A Review.pdf.txt
-77.Tumanyan et al. - 2023 - Plug-and-Play Diffusion Features for Text-Driven I.pdf.txt
-78.Mai and Zhang - 2023 - UniBrain Unify Image Reconstruction and Captionin.pdf.txt
-79.Girdhar et al. - 2023 - ImageBind One Embedding Space To Bind Them All.pdf.txt
-80.Zhao et al. - 2019 - Document Summarization using Word and Part-of-spee.pdf.txt
-81.Ronneberger et al. - 2015 - U-Net Convolutional Networks for Biomedical Image.pdf.txt
-82.Lewis et al. - 2020 - BART Denoising Sequence-to-Sequence Pre-training .pdf.txt
-83.Ren et al. - 2021 - Reconstructing seen image from brain activity by v.pdf.txt
-84.Jia et al. - 2021 - Scaling Up Visual and Vision-Language Representati.pdf.txt
-85.Goodfellow et al. - 2014 - Generative Adversarial Networks.pdf.txt
-86.Liu and Lapata - 2019 - Text Summarization with Pretrained Encoders.pdf.txt
-87.Wu et al. - 2023 - NExT-GPT Any-to-Any Multimodal LLM.pdf.txt
-88.Cherti et al. - 2022 - Reproducible scaling laws for contrastive language.pdf.txt
-89.Yao et al. - 2023 - Tree of Thoughts Deliberate Problem Solving with .pdf.txt
-90.Kavasidis et al. - 2017 - Brain2Image Converting Brain Signals into .pdf.txt
-91.Walther et al. - 2023 - A systematic comparison of deep learning methods f.pdf.txt
-92.Takagi and Nishimoto - 2022 - High-resolution image reconstruction with latent d.pdf.txt
-93.Betker et al. - Improving Image Generation with Better Captions.pdf.txt
-94.Widyassari et al. - 2022 - Review of automatic text summarization techniques .pdf.txt
-95.Elasri et al. - 2022 - Image Generation A Review.pdf.txt
-96.Jeong et al. - 2023 - WinCLIP Zero-Few-Shot Anomaly Classification and.pdf.txt
-97.Demilie - 2022 - Comparative Analysis of Automated Text Summarizati.pdf.txt
-98.Gao et al. - Human-like Summarization Evaluation with ChatGPT.pdf.txt
-99.Alayrac et al. - 2022 - Flamingo a Visual Language Model for Few-Shot Lea.pdf.txt
-100.Yang et al. - 2022 - An Empirical Study of GPT-3 for Few-Shot Knowledge.pdf.txt
-101.Schuhmann et al. - LAION-5B An open large-scale dataset for training.pdf.txt
-102.Giarelis et al. - 2023 - Abstractive vs. Extractive Summarization An Exper.pdf.txt
+Using thematic analysis in psychology
+Development of the Colle-Salvetti correlation-energy formula into a functional of the electron density
+Projector augmented-wave method
+DNA sequencing with chain-terminating inhibitors
+CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice
+Electric Field Effect in Atomically Thin Carbon Films
+The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations.
+Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2
+Oligomerization and phosphorylation of the Ire1p kinase during intracellular signaling from the endoplasmic reticulum to the nucleus.
+Self-Consistent Equations Including Exchange and Correlation Effects
+Electrophoretic transfer of proteins from polyacrylamide gels to nitrocellulose sheets: procedure and some applications.
+Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement
+Measuring inconsistency in meta-analyses
+The CES-D Scale
+Fiji: an open-source platform for biological-image analysis
+NIH Image to ImageJ: 25 years of image analysis
+Inhomogeneous Electron Gas
+Bias in meta-analysis detected by a simple, graphical test
+Gradient-based learning applied to document recognition
+G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences
+Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement
+Estimating the Dimension of a Model
+Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles
+The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools
+UCSF Chimera—A visualization system for exploratory research and analysis
+Fast Parallel Algorithms for Short-Range Molecular Dynamics
+A fast and elitist multiobjective genetic algorithm: NSGA-II
+Cytoscape: A Software Environment for Integrated Models of Biomolecular Interaction Networks
+Prospect Theory: An Analysis of Decision under Risk
+Gene Ontology: tool for the unification of biology
+Coefficient alpha and the internal structure of tests
+Research electronic data capture (REDCap)—A metadata-driven methodology and workflow process for providing translational research informatics support
+Emergence of Scaling in Random Networks
+U-Net: Convolutional Networks for Biomedical Image Segmentation
+Going deeper with convolutions
+ImageNet Large Scale Visual Recognition Challenge
+QIIME allows analysis of high-throughput community sequencing data
+Homeostasis model assessment: insulin resistance and ?-cell function from fasting plasma glucose and insulin concentrations in man
+Support-vector networks
+The PRISMA 2020 statement: an updated guideline for reporting systematic reviews
+Molecular dynamics with coupling to an external bath
+Dynamic capabilities and strategic management
+Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models
+Adam: A Method for Stochastic Optimization
+limma powers differential expression analyses for RNA-sequencing and microarray studies
+Densely Connected Convolutional Networks
+Fully convolutional networks for semantic segmentation
+The Cochrane Collaboration's tool for assessing risk of bias in randomised trials
+Common risk factors in the returns on stocks and bonds
+Initial sequencing and analysis of the human genome
+The electronic properties of graphene
+You Only Look Once: Unified, Real-Time Object Detection
+ImageNet classification with deep convolutional neural networks
+Random sample consensus
+The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data
+Statistical power analyses using G*Power 3.1: Tests for correlation and regression analyses
+Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+Histograms of Oriented Gradients for Human Detection
+Cutadapt removes adapter sequences from high-throughput sequencing reads
+clusterProfiler: an R Package for Comparing Biological Themes Among Gene Clusters
+Two-dimensional gas of massless Dirac fermions in graphene
+Atoms, molecules, solids, and surfaces: Applications of the generalized gradient approximation for exchange and correlation
+Ultrafast and memory-efficient alignment of short DNA sequences to the human genome
+A New Equation to Estimate Glomerular Filtration Rate
+Generalized autoregressive conditional heteroskedasticity
+Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
+Self-interaction correction to density-functional approximations for many-electron systems
+Geant4—a simulation toolkit
+SPAdes: A New Genome Assembly Algorithm and Its Applications to Single-Cell Sequencing
+XGBoost
+Statistical mechanics of complex networks
+THE ADSORPTION OF GASES ON PLANE SURFACES OF GLASS, MICA AND PLATINUM.
+EEGLAB: an open source toolbox for analysis of single-trial EEG dynamics including independent component analysis
+QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials
+The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series analysis
+Building Theories from Case Study Research
+Scoping studies: towards a methodological framework
+Rethinking the Inception Architecture for Computer Vision
+AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading
+DADA2: High-resolution sample inference from Illumina amplicon data
+Highly accurate protein structure prediction with AlphaFold
+A pneumonia outbreak associated with a new coronavirus of probable bat origin
+SciPy 1.0: fundamental algorithms for scientific computing in Python
+AutoDock4 and AutoDockTools4: Automated docking with selective receptor flexibility
+Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement
+The Structure and Function of Complex Networks
+Full-length transcriptome assembly from RNA-Seq data without a reference genome
+Neural networks and physical systems with emergent collective computational abilities.
+Corporate financing and investment decisions when firms have information that investors do not have
+Microsoft COCO: Common Objects in Context
+Situated Learning: Legitimate Peripheral Participation.
+An introduction to ROC analysis
+Cluster analysis and display of genome-wide expression patterns
+WGCNA: an R package for weighted correlation network analysis
+On Information and Sufficiency
+An integrated encyclopedia of DNA elements in the human genome
+Studies of interference in serial verbal reactions.
+An Introduction to the Bootstrap
+MapReduce
+Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant
+Two-equation eddy-viscosity turbulence models for engineering applications
+RSEM: accurate transcript quantification from RNA-Seq data with or without a reference genome
+A rapid alkaline extraction procedure for screening recombinant plasmid DNA
+Greedy function approximation: A gradient boosting machine.
+Initial conditions and moment restrictions in dynamic panel data models
+HISAT: a fast spliced aligner with low memory requirements
+Specification Tests in Econometrics
+Feature Pyramid Networks for Object Detection
+Bootstrap Methods: Another Look at the Jackknife
+PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation
+A comprehensive set of sequence analysis programs for the VAX
+A unified formulation of the constant temperature molecular dynamics methods
+BLEU
+RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models
+The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration
+Establishing a standard definition for child overweight and obesity worldwide: international survey
+Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation
+Materials for electrochemical capacitors
+GRADE: an emerging consensus on rating quality of evidence and strength of recommendations
+Those Who Understand: Knowledge Growth in Teaching
+A study of the conditions and mechanism of the diphenylamine reaction for the colorimetric estimation of deoxyribonucleic acid
+The Elements of Statistical Learning
+A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix
+A Guideline of Selecting and Reporting Intraclass Correlation Coefficients for Reliability Research
+SPSS and SAS procedures for estimating indirect effects in simple mediation models
+GROMACS 4: Algorithms for Highly Efficient, Load-Balanced, and Scalable Molecular Simulation
+A new criterion for assessing discriminant validity in variance-based structural equation modeling
+Molecular portraits of human breast tumours
+BLAST+: architecture and applications
+The Pascal Visual Object Classes (VOC) Challenge
+Apoptosis: A Basic Biological Phenomenon with Wideranging Implications in Tissue Kinetics
+Focal Loss for Dense Object Detection
+Deep learning in neural networks: An overview
+Atomic Force Microscope
+Electronics and optoelectronics of two-dimensional transition metal dichalcogenides
+MOLSCRIPT: a program to produce both detailed and schematic plots of protein structures
+A global reference for human genetic variation
+Note on an Approximation Treatment for Many-Electron Systems
+Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?
+Ground State of the Electron Gas by a Stochastic Method
+Structure validation in chemical crystallography
+The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaboration
+DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+Bagging predictors
+Model-based Analysis of ChIP-Seq (MACS)
+The diagnosis of dementia due to Alzheimer's disease: Recommendations from the National Institute on Aging‐Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease
+Differential expression analysis for sequence count data
+jModelTest 2: more models, new heuristics and parallel computing
+Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation
+Standardisation of spirometry
+Evidence based medicine: what it is and what it isn't
+Inhibited Spontaneous Emission in Solid-State Physics and Electronics
+Raman Spectrum of Graphene and Graphene Layers
+Normalized cuts and image segmentation
+Inflammation and cancer
+Resilience and Stability of Ecological Systems
+Single-layer MoS2 transistors
+WordNet
+Self-efficacy: Toward a unifying theory of behavioral change.
+Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
+Fronts propagating with curvature-dependent speed: Algorithms based on Hamilton-Jacobi formulations
+Image-to-Image Translation with Conditional Adversarial Networks
+phyloseq: An R Package for Reproducible Interactive Analysis and Graphics of Microbiome Census Data
+Fast unfolding of communities in large networks
+SSD: Single Shot MultiBox Detector
+A Survey of Corporate Governance
+Squeeze-and-Excitation Networks
+Experimental observation of the quantum Hall effect and Berry's phase in graphene
+Inference from Iterative Simulation Using Multiple Sequences
+Knowledge and Teaching:Foundations of the New Reform
+A Contribution to the Empirics of Economic Growth
+Fast, scalable generation of high‐quality protein multiple sequence alignments using Clustal Omega
+Understanding the Warburg Effect: The Metabolic Requirements of Cell Proliferation
+Graphene: Status and Prospects
+Data clustering
+Development and validation of a geriatric depression screening scale: A preliminary report
+A Second Generation Force Field for the Simulation of Proteins, Nucleic Acids, and Organic Molecules
+Prospect theory: An analysis of decision under risk
+Elliptic Partial Differential Equations of Second Order
+The genetical theory of natural selection
+Investigation of the freely available easy-to-use software ‘EZR’ for medical statistics
+MobileNetV2: Inverted Residuals and Linear Bottlenecks
+Optical Coherence Tomography
+Least squares quantization in PCM
+Canonical sampling through velocity rescaling
+How to share a secret
+Accurate transcription initiation by RNA polymerase II in a soluble extract from isolated mammalian nuclei
+The 2016 World Health Organization Classification of Tumors of the Central Nervous System: a summary
+Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels
+Generalized Gradient Approximation Made Simple [Phys. Rev. Lett. 77, 3865 (1996)]
+Palladium-Catalyzed Cross-Coupling Reactions of Organoboron Compounds
+Advances in functional and structural MR image analysis and implementation as FSL
+Topological insulators and superconductors
+Endogenous Technological Change
+Applied Logistic Regression
+Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses
+Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers
+BEAST: Bayesian evolutionary analysis by sampling trees
+AFLP: a new technique for DNA fingerprinting
+Integrative genomics viewer
+An Integrative Model Of Organizational Trust
+A new hybrid exchange–correlation functional using the Coulomb-attenuating method (CAM-B3LYP)
+Ror2 signaling regulates Golgi structure and transport through IFT20 for tumor invasiveness
+Approximation by superpositions of a sigmoidal function
+Consensus Problems in Networks of Agents With Switching Topology and Time-Delays
+A method and server for predicting damaging missense mutations
+Speeded-Up Robust Features (SURF)
+Mixed effects models and extensions in ecology with R
+Room-Temperature Ionic Liquids. Solvents for Synthesis and Catalysis
+Negative Refraction Makes a Perfect Lens
+Theory of Superconductivity
+Grey Wolf Optimizer
+TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions
+Integrative Analysis of Complex Cancer Genomics and Clinical Profiles Using the cBioPortal
+Finding and evaluating community structure in networks
+Anti de Sitter space and holography
+Scale-space and edge detection using anisotropic diffusion
+Crime and Punishment: An Economic Approach
+Determinants of corporate borrowing
+RoB 2: a revised tool for assessing risk of bias in randomised trials
+Semiconductor Clusters, Nanocrystals, and Quantum Dots
+RNA-Seq: a revolutionary tool for transcriptomics
+The blockade of immune checkpoints in cancer immunotherapy
+WebLogo: A Sequence Logo Generator: Figure 1
+Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks
+Improved tools for biological sequence comparison.
+The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity
+2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer
+The plant immune system
+The large $N$ limit of superconformal field theories and supergravity
+A novel potent vasoconstrictor peptide produced by vascular endothelial cells
+Two-dimensional atomic crystals
+Prevalence, Severity, and Comorbidity of 12-Month DSM-IV Disorders in the National Comorbidity Survey Replication
+Effect of potentially modifiable risk factors associated with myocardial infarction in 52 countries (the INTERHEART study): case-control study
+APE: Analyses of Phylogenetics and Evolution in R language
+Rapid isolation of high molecular weight plant DNA
+FastTree 2 – Approximately Maximum-Likelihood Trees for Large Alignments
+Ultrastructural Characterization of the Lower Motor System in a Mouse Model of Krabbe Disease
+An algorithm for the machine calculation of complex Fourier series
+Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective
+No free lunch theorems for optimization
+Measurement of Diversity
+Particle creation by black holes
+On a Test of Whether one of Two Random Variables is Stochastically Larger than the Other
+Mining association rules between sets of items in large databases
+A method for obtaining digital signatures and public-key cryptosystems
+The Reflective Practitioner: How Professionals Think in Action
+A method for the solution of certain non-linear problems in least squares
+Large-Area Synthesis of High-Quality and Uniform Graphene Films on Copper Foils
+GAN（Generative Adversarial Nets）
+A comprehensive review of ZnO materials and devices
+Capacity of Multi‐antenna Gaussian Channels
+YOLO9000: Better, Faster, Stronger
+Macroeconomics and Reality
+Social Cognitive Theory: An Agentic Perspective
+Metagenomic biomarker discovery and explanation
+Linear Models and Empirical Bayes Methods for Assessing Differential Expression in Microarray Experiments
+Simultaneous Inference in General Parametric Models
+AFNI: Software for Analysis and Visualization of Functional Magnetic Resonance Neuroimages
+Unified Approach for Molecular Dynamics and Density-Functional Theory
+Biological identifications through DNA barcodes
+GMRES: A Generalized Minimal Residual Algorithm for Solving Nonsymmetric Linear Systems
+A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010
+A simple technique for quantitation of low levels of DNA damage in individual cells
+The 2007 WHO Classification of Tumours of the Central Nervous System
+A framework for variation discovery and genotyping using next-generation DNA sequencing data
+Spintronics: Fundamentals and applications
+Comprehensive molecular portraits of human breast tumours
+An Introduction to Support Vector Machines and Other Kernel-based Learning Methods
+Polymer Photovoltaic Cells: Enhanced Efficiencies via a Network of Internal Donor-Acceptor Heterojunctions
+The Internationalization Process of the Firm—A Model of Knowledge Development and Increasing Foreign Market Commitments
+On the Einstein Podolsky Rosen paradox
+Five Misunderstandings About Case-Study Research
+Representation Learning: A Review and New Perspectives
+The Hungarian method for the assignment problem
+Telling more than we can know: Verbal reports on mental processes.
+First principles methods using CASTEP
+The RAST Server: Rapid Annotations using Subsystems Technology
+Significance analysis of microarrays applied to the ionizing radiation response
+Cancer-related inflammation
+The determination of the elastic field of an ellipsoidal inclusion, and related problems
+Missing data: Our view of the state of the art.
+Interrater reliability: the kappa statistic
+Active contours without edges
+Summary for Policymakers
+GUS fusions: beta-glucuronidase as a sensitive and versatile gene fusion marker in higher plants.
+Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013
+Corporate Ownership Around the World
+Convolutional Neural Networks for Sentence Classification
+IntCal13 and Marine13 Radiocarbon Age Calibration Curves 0–50,000 Years cal BP
+Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence.
+Qualitative Analysis for Social Scientists
+The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) Statement: Guidelines for Reporting Observational Studies
+Mathematical model for studying genetic variation in terms of restriction endonucleases.
+Increasing Returns and Economic Geography
+A Statistical Distribution Function of Wide Applicability
+The Human Genome Browser at UCSC
+Mutations of the BRAF gene in human cancer
+Observation of Gravitational Waves from a Binary Black Hole Merger
+Definitions for Sepsis and Organ Failure and Guidelines for the Use of Innovative Therapies in Sepsis
+Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization
+Mediation in experimental and nonexperimental studies: New procedures and recommendations.
+Consensus and Cooperation in Networked Multi-Agent Systems
+Projections of Global Mortality and Burden of Disease from 2002 to 2030
+A tutorial on support vector regression
+A human gut microbial gene catalogue established by metagenomic sequencing
+Structure, function and diversity of the healthy human microbiome
+Construct validity in psychological tests.
+Estimating Standard Errors in Finance Panel Data Sets: Comparing Approaches
+Complex thermoelectric materials
+Internet of Things (IoT): A vision, architectural elements, and future directions
+Hedonic Prices and Implicit Markets: Product Differentiation in Pure Competition
+Rayyan—a web and mobile app for systematic reviews
+Mussel-Inspired Surface Chemistry for Multifunctional Coatings
+Strong localization of photons in certain disordered dielectric superlattices
+Gene expression profiling predicts clinical outcome of breast cancer
+On Estimation of a Probability Density Function and Mode
+THE PREPARATION OF 131I-LABELLED HUMAN GROWTH HORMONE OF HIGH SPECIFIC RADIOACTIVITY
+Genome engineering using the CRISPR-Cas9 system
+Cochrane Handbook for Systematic Reviews of Interventions
+Toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions
+z-Tree: Zurich toolbox for ready-made economic experiments
+Velvet: Algorithms for de novo short read assembly using de Bruijn graphs
+Induction of decision trees
+An Introduction To Compressive Sampling
+Welcome to the Tidyverse
+A safe operating space for humanity
+Stem cells, cancer, and cancer stem cells
+ModelFinder: fast model selection for accurate phylogenetic estimates
+Analysis of protein-coding genetic variation in 60,706 humans
+Electron-Hole Diffusion Lengths Exceeding 1 Micrometer in an Organometal Trihalide Perovskite Absorber
+Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls
+Speech Acts
+Xception: Deep Learning with Depthwise Separable Convolutions
+Trends, Rhythms, and Aberrations in Global Climate 65 Ma to Present
+THE DISTRIBUTION AND CHEMICAL COMPOSITION OF ULTRACENTRIFUGALLY SEPARATED LIPOPROTEINS IN HUMAN SERUM
+The FAIR Guiding Principles for scientific data management and stewardship
+Integrating single-cell transcriptomic data across different conditions, technologies, and species
+Optical Properties and Electronic Structure of Amorphous Germanium
+Software survey: VOSviewer, a computer program for bibliometric mapping
+ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions
+A survey on deep learning in medical image analysis
+Translating the Histone Code
+The basics of epithelial-mesenchymal transition
+Ad-hoc on-demand distance vector routing
+Processable aqueous dispersions of graphene nanosheets
+Van der Waals heterostructures
+Stellar population synthesis at the resolution of 2003
+The Sloan Digital Sky Survey: Technical Summary
+Analysis of the genome sequence of the flowering plant Arabidopsis thaliana
+Data mining: concepts and techniques
+FSL
+Global analyses of sea surface temperature, sea ice, and night marine air temperature since the late nineteenth century
+The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration
+Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit
+Circos: An information aesthetic for comparative genomics
+Least angle regression
+Graph-Based Algorithms for Boolean Function Manipulation
+pROC: an open-source package for R and S+ to analyze and compare ROC curves
+Fostering implementation of health services research findings into practice: a consolidated framework for advancing implementation science
+Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation
+Pyramid Scene Parsing Network
+Mixed Methods Research: A Research Paradigm Whose Time Has Come
+A Self-Rating Depression Scale
+Restoring the Density-Gradient Expansion for Exchange in Solids and Surfaces
+The NumPy Array: A Structure for Efficient Numerical Computation
+Red and photographic infrared linear combinations for monitoring vegetation
+A view of cloud computing
+A training algorithm for optimal margin classifiers
+Human Domination of Earth's Ecosystems
+The control of the false discovery rate in multiple testing under dependency
+The Phyre2 web portal for protein modeling, prediction and analysis
+Amyloid Oligomers Exacerbate Tau Pathology in a Mouse Model of Tauopathy
+How Much Should We Trust Differences-In-Differences Estimates?
+Term-weighting approaches in automatic text retrieval
+Perturbation Theory for Linear Operators
+Time, clocks, and the ordering of events in a distributed system
+A comparison of methods to test mediation and other intervening variable effects.
+A Neural Substrate of Prediction and Reward
+General Theory of Three-Dimensional Consolidation
+RNA-Guided Human Genome Engineering via Cas9
+Signatures of mutational processes in human cancer
+THE CONSTITUTION AND FUNDAMENTAL PROPERTIES OF SOLIDS AND LIQUIDS. PART I. SOLIDS.
+Gauge theory correlators from non-critical string theory
+World Map of the Köppen-Geiger climate classification updated
+Bank Runs, Deposit Insurance, and Liquidity
+Authoritative sources in a hyperlinked environment
+Large Mass Hierarchy from a Small Extra Dimension
+Computer "Experiments" on Classical Fluids. I. Thermodynamical Properties of Lennard-Jones Molecules
+Composite Medium with Simultaneously Negative Permeability and Permittivity
+A review of electrode materials for electrochemical supercapacitors
+The weirdest people in the world?
+Robust enumeration of cell subsets from tissue expression profiles
+A Universal Density Profile from Hierarchical Clustering
+The Power of Feedback
+FaceNet: A unified embedding for face recognition and clustering
+Addressing Moderated Mediation Hypotheses: Theory, Methods, and Prescriptions
+A Stochastic Approximation Method
+Association of glycaemia with macrovascular and microvascular complications of type 2 diabetes (UKPDS 35): prospective observational study
+Voxel-Based Morphometry—The Methods
+Coordination of groups of mobile autonomous agents using nearest neighbor rules
+The magical number seven, plus or minus two: Some limits on our capacity for processing information.
+Inflationary universe: A possible solution to the horizon and flatness problems
+p53 Mutations in Human Cancers
+The Large Scale Structure of Space-Time
+Scoping studies: advancing the methodology
+tRNAscan-SE: A Program for Improved Detection of Transfer RNA Genes in Genomic Sequence
+Second-generation PLINK: rising to the challenge of larger and richer datasets
+Genomic sequencing.
+Updated world map of the Köppen-Geiger climate classification
+Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment
+Developing and evaluating complex interventions: the new Medical Research Council guidance
+node2vec
+The Amber biomolecular simulation programs
+Visualizing and Understanding Convolutional Networks
+DAVID: Database for Annotation, Visualization, and Integrated Discovery
+The human brain is intrinsically organized into dynamic, anticorrelated functional networks
+Prodigal: prokaryotic gene recognition and translation initiation site identification
+Making sense of Cronbach's alpha
+Content Analysis: An Introduction to its Methodology.
+Phonons and related crystal properties from density-functional perturbation theory
+Independent component analysis, A new concept?
+StringTie enables improved reconstruction of a transcriptome from RNA-seq reads
+Community detection in graphs
+Self-Rated Health and Mortality: A Review of Twenty-Seven Community Studies
+Mutation in the α-Synuclein Gene Identified in Families with Parkinson's Disease
+The Cityscapes Dataset for Semantic Urban Scene Understanding
+Hydrogen-storage materials for mobile applications
+Quality criteria were proposed for measurement properties of health status questionnaires
+Finding the missing heritability of complex diseases
+Numerical Heat Transfer and Fluid Flow
+Roll-to-roll production of 30-inch graphene films for transparent electrodes
+A novel gene containing a trinucleotide repeat that is expanded and unstable on Huntington's disease chromosomes
+Most mammalian mRNAs are conserved targets of microRNAs
+The role of pattern-recognition receptors in innate immunity: update on Toll-like receptors
+Determining Lyapunov exponents from a time series
+Quantum entanglement
+Exploring the full spectrum of macrophage activation
+Independent component analysis: algorithms and applications
+GSVA: gene set variation analysis for microarray and RNA-Seq data
+Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms
+Deciphering the biology of Mycobacterium tuberculosis from the complete genome sequence
+Quantum Dots for Live Cells, in Vivo Imaging, and Diagnostics
+Reticular synthesis and the design of new materials
+What Will 5G Be?
+A biochemical model of photosynthetic CO2 assimilation in leaves of C3 species
+Moral Hazard and Observability
+Metascape provides a biologist-oriented resource for the analysis of systems-level datasets
+SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules
+Prevalence of Childhood and Adult Obesity in the United States, 2011-2012
+FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data
+Electron transfers in chemistry and biology
+Nonlinear Component Analysis as a Kernel Eigenvalue Problem
+The Steroid and Thyroid Hormone Receptor Superfamily
+The diagnosis of mild cognitive impairment due to Alzheimer's disease: Recommendations from the National Institute on Aging‐Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease
+Diet rapidly and reproducibly alters the human gut microbiome
+Executive Functions
+Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome
+Designing qualitative research
+Pharmaceuticals, Hormones, and Other Organic Wastewater Contaminants in U.S. Streams, 1999−2000: A National Reconnaissance
+SLIC Superpixels Compared to State-of-the-Art Superpixel Methods
+An integrated map of genetic variation from 1,092 human genomes
+Orthonormal bases of compactly supported wavelets
+Visible Light Photoredox Catalysis with Transition Metal Complexes: Applications in Organic Synthesis
+FSTAT (Version 1.2): A Computer Program to Calculate F-Statistics
+Machine learning in automated text categorization
+Black phosphorus field-effect transistors
+Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+Estimating Nonresponse Bias in Mail Surveys
+The global distribution and burden of dengue
+Maintaining knowledge about temporal intervals
+The Chemical Composition of the Sun
+A map of human genome variation from population-scale sequencing
+Why do Some Countries Produce So Much More Output Per Worker than Others?
+Self-consistent molecular orbital methods. XXIII. A polarization-type basis set for second-row elements
+Comprehensive molecular characterization of human colon and rectal cancer
+Artificial intelligence: a modern approach
+Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+The Cambridge Structural Database
+Convergence of Probability Measures
+Pattern formation outside of equilibrium
+Digital Natives, Digital Immigrants Part 1
+CBAM: Convolutional Block Attention Module
+The Compressibility of Media under Extreme Pressures
+Genome sequencing in microfabricated high-density picolitre reactors
+The Fusiform Face Area: A Module in Human Extrastriate Cortex Specialized for Face Perception
+Obesity is associated with macrophage accumulation in adipose tissue
+Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+Structural Equation Models with Unobservable Variables and Measurement Error: Algebra and Statistics
+Ultrahigh electron mobility in suspended graphene
+Dynamic Source Routing in Ad Hoc Wireless Networks
+The American Joint Committee on Cancer: the 7th Edition of the AJCC Cancer Staging Manual and the Future of TNM
+Mixed-Effects Models in Sand S-PLUS
+Predictive functional profiling of microbial communities using 16S rRNA marker gene sequences
+CHARMM: The biomolecular simulation program
+Salmon provides fast and bias-aware quantification of transcript expression
+Quantum cryptography
+Why Most Published Research Findings Are False
+Scikit-learn: Machine Learning in Python
+Trace Element Discrimination Diagrams for the Tectonic Interpretation of Granitic Rocks
+Finance and Growth: Schumpeter Might Be Right
+Sub-diffraction-limit imaging by stochastic optical reconstruction microscopy (STORM)
+Theory of Propagation of Elastic Waves in a Fluid-Saturated Porous Solid. I. Low-Frequency Range
+Synthesis of Transportation Fuels from Biomass: Chemistry, Catalysts, and Engineering
+The behaviour change wheel: A new method for characterising and designing behaviour change interventions
+Bidirectional recurrent neural networks
+Design and synthesis of an exceptionally stable and highly porous metal-organic framework
+SURF: Speeded Up Robust Features
+Aggregated Residual Transformations for Deep Neural Networks
+Non-local Neural Networks
+Introduction to Information Retrieval
+Laplacian Eigenmaps for Dimensionality Reduction and Data Representation
+Ultra-high-throughput microbial community analysis on the Illumina HiSeq and MiSeq platforms
+Lead Iodide Perovskite Sensitized All-Solid-State Submicron Thin Film Mesoscopic Solar Cell with Efficiency Exceeding 9%
+Random effects structure for confirmatory hypothesis testing: Keep it maximal
+Graphene photonics and optoelectronics
+A Model of Leptons
+Food-Related Illness and Death in the United States
+A Survey of Augmented Reality
+The Health Belief Model: A Decade Later
+Double-slit photoelectron interference in strong-field ionization of the neon dimer
+Integrative Genomics Viewer (IGV): high-performance genomics data visualization and exploration
+CheckM: assessing the quality of microbial genomes recovered from isolates, single cells, and metagenomes
+Biological insights from 108 schizophrenia-associated genetic loci
+Comprehensive genomic characterization defines human glioblastoma genes and core pathways
+DeepWalk
+Many-body physics with ultracold gases
+ff14SB: Improving the Accuracy of Protein Side Chain and Backbone Parameters from ff99SB
+Item-based collaborative filtering recommendation algorithms
+PYTHIA 6.4 physics and manual
+A core gut microbiome in obese and lean twins
+Decoding by Linear Programming
+Does the autistic child have a “theory of mind” ?
+Psychological Safety and Learning Behavior in Work Teams
+UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age
+Culture of Human Endothelial Cells Derived from Umbilical Veins. IDENTIFICATION BY MORPHOLOGIC AND IMMUNOLOGIC CRITERIA
+The neural basis of drug craving: An incentive-sensitization theory of addiction
+Tandem repeats finder: a program to analyze DNA sequences
+Q-learning
+Grading quality of evidence and strength of recommendations
+Recombinant genomes which express chloramphenicol acetyltransferase in mammalian cells.
+Occurrence of the potent mutagens 2- nitrobenzanthrone and 3-nitrobenzanthrone in fine airborne particles
+Governing the Commons: The Evolution of Institutions for Collective Action
+User-guided 3D active contour segmentation of anatomical structures: Significantly improved efficiency and reliability
+The Genotype-Tissue Expression (GTEx) project
+Methods of conjugate gradients for solving linear systems
+Immediate Psychological Responses and Associated Factors during the Initial Stage of the 2019 Coronavirus Disease (COVID-19) Epidemic among the General Population in China
+Risk, Ambiguity, and the Savage Axioms
+Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010
+Fast approximate energy minimization via graph cuts
+Geographic Localization of Knowledge Spillovers as Evidenced by Patent Citations
+Superconductivity at 93 K in a new mixed-phase Y-Ba-Cu-O compound system at ambient pressure
+Mastering the game of Go without human knowledge
+Extinction risk from climate change
+Initial sequencing and comparative analysis of the mouse genome
+De novo transcript sequence reconstruction from RNA-seq using the Trinity platform for reference generation and analysis
+Isolation of a cDNA cLone Derived from a Blood-Borne Non-A, Non-B Viral Hepatitis Genome
+Estimating the mean and variance from the median, range, and the size of a sample
+Foundations of social theory
+Management ownership and market valuation
+A vector space model for automatic indexing
+Creating the CIPRES Science Gateway for inference of large phylogenetic trees
+Error and attack tolerance of complex networks
+Mutational landscape determines sensitivity to PD-1 blockade in non–small cell lung cancer
+Stable signal recovery from incomplete and inaccurate measurements
+Apparent hydroxyl radical production by peroxynitrite: implications for endothelial injury from nitric oxide and superoxide.
+A review of the source, behaviour and distribution of arsenic in natural waters
+Metallic Phase with Long-Range Orientational Order and No Translational Symmetry
+Theory of Rational Option Pricing
+Image Super-Resolution Using Deep Convolutional Networks
+The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity
+QUAST: quality assessment tool for genome assemblies
+Cancer Genome Landscapes
+A biomarker that identifies senescent human cells in culture and in aging skin in vivo.
+Integrated genomic analyses of ovarian carcinoma
+Cultures and Organizations: Software of the Mind.
+Spurious but systematic correlations in functional connectivity MRI networks arise from subject motion
+EFFECTS OF BIODIVERSITY ON ECOSYSTEM FUNCTIONING: A CONSENSUS OF CURRENT KNOWLEDGE
+Mixed-effects modeling with crossed random effects for subjects and items
+Learning Deep Features for Discriminative Localization
+Near-Optimal Signal Recovery From Random Projections: Universal Encoding Strategies?
+Revealing Noncovalent Interactions
+GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral
+The Ecological Approach to Visual Perception
+Quantum Spin Hall Effect in Graphene
+Does the chimpanzee have a theory of mind?
+Pilon: An Integrated Tool for Comprehensive Microbial Variant Detection and Genome Assembly Improvement
+The pyramid of corporate social responsibility: Toward the moral management of organizational stakeholders
+Central Problems in Social Theory
+Collaborative meta-analysis of randomised trials of antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients
+Motivational and self-regulated learning components of classroom academic performance.
+Data Mining: Practical Machine Learning Tools and Techniques
+Foodborne Illness Acquired in the United States—Major Pathogens
+DNA methylation patterns and epigenetic memory
+Plasma perspective on strong field multiphoton ionization
+Improved adsorption energetics within density-functional theory using revised Perdew-Burke-Ernzerhof functionals
+Studies on products of browning reaction. Antioxidative activities of products of browning reaction prepared from glucosamine.
+Power-Law Distributions in Empirical Data
+Linear methods in band theory
+Coherence in Spontaneous Radiation Processes
+An Alternative to Compactification
+Bayesian Analysis of Radiocarbon Dates
+Proposed Experiment to Test Local Hidden-Variable Theories
+Folding DNA to create nanoscale shapes and patterns
+FreeSurfer
+Multidimensional binary search trees used for associative searching
+The Adaptive Lasso and Its Oracle Properties
+Learning Spatiotemporal Features with 3D Convolutional Networks
+A performance evaluation of local descriptors
+On the limited memory BFGS method for large scale optimization
+Fast model-based estimation of ancestry in unrelated individuals
+Speech recognition with deep recurrent neural networks
+Sequencing technologies — the next generation
+The use of partial least squares path modeling in international marketing
+The NIST definition of cloud computing
+Molecular mechanisms of epithelial–mesenchymal transition
+Novel Type of Phase Transition in a System of Self-Driven Particles
+Neurons with graded response have collective computational properties like those of two-state neurons.
+Graph Theory with Applications
+MotionCor2: anisotropic correction of beam-induced motion for improved cryo-electron microscopy
+Revised American Thyroid Association Management Guidelines for Patients with Thyroid Nodules and Differentiated Thyroid Cancer
+The number of people with glaucoma worldwide in 2010 and 2020
+Health benefits of physical activity: the evidence
+Multivariate Adaptive Regression Splines
+Frailty in elderly people
+Confidence Limits for the Indirect Effect: Distribution of the Product and Resampling Methods
+Quantum computation with quantum dots
+Dissociable Intrinsic Connectivity Networks for Salience Processing and Executive Control
+Rapid and efficient site-specific mutagenesis without phenotypic selection.
+Distributed Hierarchical Processing in the Primate Cerebral Cortex
+Purification of Biologically Active Globin Messenger RNA by Chromatography on Oligothymidylic acid-Cellulose
+Open Babel: An open chemical toolbox
+Eye movements in reading and information processing: 20 years of research.
+Human gut microbiome viewed across age and geography
+The Cancer Genome Atlas Pan-Cancer analysis project
+The Rat Brain in Stereotaxic Coordinates
+Global trends in emerging infectious diseases
+Updating P300: An integrative theory of P3a and P3b
+Human Adipose Tissue Is a Source of Multipotent Stem Cells
+Economic Growth in a Cross Section of Countries
+Comparison of multiple Amber force fields and development of improved protein backbone parameters
+Review of Particle Physics
+Avogadro: an advanced semantic chemical editor, visualization, and analysis platform
+Economic Welfare and the Allocation of Resources for Invention
+Neural networks for pattern recognition
+The mutational constraint spectrum quantified from variation in 141,456 humans
+Orality and Literacy
+Optical Coherence and Quantum Optics
+Relaxation Effects in Nuclear Magnetic Resonance Absorption
+Re-epithelialization and immune cell behaviour in an ex vivo human skin model
+LC3, a mammalian homologue of yeast Apg8p, is localized in autophagosome membranes after processing
+Normalization of Real-Time Quantitative Reverse Transcription-PCR Data: A Model-Based Variance Estimation Approach to Identify Genes Suited for Normalization, Applied to Bladder and Colon Cancer Data Sets
+Significance of Electromagnetic Potentials in the Quantum Theory
+Boron nitride substrates for high-quality graphene electronics
+Highly efficient organic light-emitting diodes from delayed fluorescence
+Postwar U.S. Business Cycles: An Empirical Investigation
+Acute Kidney Injury Network: report of an initiative to improve outcomes in acute kidney injury
+Thumbs up?
+Quantum Spin Hall Effect and Topological Phase Transition in HgTe Quantum Wells
+Effects of noise letters upon the identification of a target letter in a nonsearch task
+Using the framework method for the analysis of qualitative data in multi-disciplinary health research
+Primer3 on the WWW for General Users and for Biologist Programmers
+New Method for High-Accuracy Determination of the Fine-Structure Constant Based on Quantized Hall Resistance
+A Simplest Systematics for the Organization of Turn-Taking for Conversation
+A scaling normalization method for differential expression analysis of RNA-seq data
+Body fat assessed from total body density and its estimation from skinfold thickness: measurements on 481 men and women aged from 16 to 72 Years
+Therapeutic inhibition of CXCR2 by Reparixin attenuates acute lung injury in mice.
+Exceptional chemical and thermal stability of zeolitic imidazolate frameworks
+THE NF-κB AND IκB PROTEINS: New Discoveries and Insights
+Neurogenesis in the adult human hippocampus
+Solutions for a cultivated planet
+Tight blood pressure control and risk of macrovascular and microvascular complications in type 2 diabetes: UKPDS 38
+In situ click chemistry generation of cyclooxygenase-2 inhibitors
+Global, regional, and national age–sex specific all-cause and cause-specific mortality for 240 causes of death, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013
+Perfect Metamaterial Absorber
+Development and preliminary testing of the new five-level version of EQ-5D (EQ-5D-5L)
+The representative concentration pathways: an overview
+Additive logistic regression: a statistical view of boosting (With discussion and a rejoinder by the authors)
+Investment in Human Capital: A Theoretical Analysis
+Mining and summarizing customer reviews
+Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset
+Functional connectivity in the resting brain: A network analysis of the default mode hypothesis
+On the generators of quantum dynamical semigroups
+Virological assessment of hospitalized patients with COVID-2019
+Emotional Intelligence
+Topological domains in mammalian genomes identified by analysis of chromatin interactions
+A global clinical measure of fitness and frailty in elderly people
+Climbing the Density Functional Ladder: Nonempirical Meta–Generalized Gradient Approximation Designed for Molecules and Solids
+CDK inhibitors: positive and negative regulators of G1-phase progression
+Diffusion of Innovations in Service Organizations: Systematic Review and Recommendations
+Robust Estimation of a Location Parameter
+Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR
+Toward defining the preclinical stages of Alzheimer's disease: Recommendations from the National Institute on Aging‐Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease
+Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
+A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades
+Real time quantitative PCR.
+An equilibrium characterization of the term structure
+A global overview of drought and heat-induced tree mortality reveals emerging climate change risks for forests
+The cosmological constant problem
+Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
+Palladium-Catalyzed Ligand-Directed C−H Functionalization Reactions
+Enterotypes of the human gut microbiome
+Relaxed Phylogenetics and Dating with Confidence
+The International Scientific Association for Probiotics and Prebiotics consensus statement on the scope and appropriate use of the term probiotic
+Myeloid-derived suppressor cells as regulators of the immune system
+Raman spectroscopy as a versatile tool for studying the properties of graphene
+From inflammation to sickness and depression: when the immune system subjugates the brain
+Fast and robust fixed-point algorithms for independent component analysis
+Autophagy fights disease through cellular self-digestion
+The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2
+Structural absorption by barbule microstructures of super black bird of paradise feathers
+On the variation of the initial mass function
+Continuum Theory of Ductile Rupture by Void Nucleation and Growth: Part I—Yield Criteria and Flow Rules for Porous Ductile Media
+Increasing Returns, Path Dependence, and the Study of Politics
+Generating optimal topologies in structural design using a homogenization method
+Alginate: Properties and biomedical applications
+The Perseus computational platform for comprehensive analysis of (prote)omics data
+Microenvironmental regulation of tumor progression and metastasis
+A survey on Image Data Augmentation for Deep Learning
+Bad is Stronger than Good
+Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide
+A simplest systematics for the organization of turn-taking for conversation
+Instrumental Variables Regression with Weak Instruments
+Membrane lipids: where they are and how they behave
+CONSORT 2010 Explanation and Elaboration: updated guidelines for reporting parallel group randomised trials
+Qualitative Research: Introducing focus groups
+I-TASSER: a unified platform for automated protein structure and function prediction
+Tissue Cells Feel and Respond to the Stiffness of Their Substrate
+Maximizing the spread of influence through a social network
+Phosphorene: An Unexplored 2D Semiconductor with a High Hole Mobility
+A haplotype map of the human genome
+Reciprocal Relations in Irreversible Processes. I.
+Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya.
+Simple statistical gradient-following algorithms for connectionist reinforcement learning
+High-Resolution X-Ray Photoemission Spectrum of the Valence Bands of Gold
+Generalized gradient approximation for the exchange-correlation hole of a many-electron system
+A robust and high-throughput Cre reporting and characterization system for the whole mouse brain
+Decision-Making in a Fuzzy Environment
+A Simple Model of Herd Behavior
+The International HapMap Project
+Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories
+High-yield production of graphene by liquid-phase exfoliation of graphite
+Amino acid substitution matrices from protein blocks.
+RoBERTa: A Robustly Optimized BERT Pretraining Approach
+The Effect of National Culture on the Choice of Entry Mode
+The Stanford CoreNLP Natural Language Processing Toolkit
+Integrative analysis of 111 reference human epigenomes
+Identification of Herpesvirus-Like DNA Sequences in AIDS-Sssociated Kaposi's Sarcoma
+Oxidants, antioxidants, and the degenerative diseases of aging.
+Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro
+Government Spending in a Simple Model of Endogeneous Growth
+Use of the Hough transformation to detect lines and curves in pictures
+Efficient Graph-Based Image Segmentation
+Power failure: why small sample size undermines the reliability of neuroscience
+What To Do (and Not to Do) with Time-Series Cross-Section Data
+AMPK and mTOR regulate autophagy through direct phosphorylation of Ulk1
+Pluripotency of mesenchymal stem cells derived from adult marrow
+A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.
+Ultrasensitive fluorescent proteins for imaging neuronal activity
+Inferring tumour purity and stromal and immune cell admixture from expression data
+Global quantification of mammalian gene expression control
+Unscented Filtering and Nonlinear Estimation
+STAR FORMATION IN GALAXIES ALONG THE HUBBLE SEQUENCE
+Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica
+The use of the area under the ROC curve in the evaluation of machine learning algorithms
+Relationship-based approach to leadership: Development of leader-member exchange (LMX) theory of leadership over 25 years: Applying a multi-level multi-domain perspective
+Towards Evaluating the Robustness of Neural Networks
+Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs
+V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation
+Global burden of hypertension: analysis of worldwide data
+The magical number 4 in short-term memory: A reconsideration of mental storage capacity
+Methylation-specific PCR: a novel PCR assay for methylation status of CpG islands.
+Nitric Oxide and Peroxynitrite in Health and Disease
+2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS)
+A candidate genetic risk factor for vascular disease: a common mutation in methylenetetrahydrofolate reductase
+Loss Aversion in Riskless Choice: A Reference-Dependent Model
+Diamond-like amorphous carbon
+Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+The Benefits of Frequent Positive Affect: Does Happiness Lead to Success?
+U1 snRNP regulates cancer cell migration and invasion in vitro
+Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising
+On the Theory of Oxidation-Reduction Reactions Involving Electron Transfer. I
+Unconventional superconductivity in magic-angle graphene superlattices
+Gmsh: A 3‐D finite element mesh generator with built‐in pre‐ and post‐processing facilities
+Transformation of the Nitrogen Cycle: Recent Trends, Questions, and Potential Solutions
+The equity premium: A puzzle
+Aggregation-induced emission
+The relation of strength of stimulus to rapidity of habit‐formation
+THE CORPORATE SOCIAL PERFORMANCE-FINANCIAL PERFORMANCE LINK
+The Byzantine Generals Problem
+Attitudinal effects of mere exposure.
+PD-1 blockade induces responses by inhibiting adaptive immune resistance
+The worldwide leaf economics spectrum
+[19] Rapid and efficient site-specific mutagenesis without phenotypic selection
+Self‐determination theory and work motivation
+Fault-tolerant quantum computation by anyons
+Quantized Hall Conductance in a Two-Dimensional Periodic Potential
+Abstract interpretation
+Investor protection and corporate governance
+The economic implications of corporate financial reporting
+Efficient Implementation of Weighted ENO Schemes
+Improving Bioscience Research Reporting: The ARRIVE Guidelines for Reporting Animal Research
+Implicit social cognition: Attitudes, self-esteem, and stereotypes.
+Non-Abelian anyons and topological quantum computation
+Quantum Spin Hall Insulator State in HgTe Quantum Wells
+Deep Learning Face Attributes in the Wild
+Geant4 developments and applications
+Building a Large Annotated Corpus of English: The Penn Treebank
+Research Domain Criteria (RDoC): Toward a New Classification Framework for Research on Mental Disorders
+Separable dual-space Gaussian pseudopotentials
+Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems
+Determinants of Perceived Ease of Use: Integrating Control, Intrinsic Motivation, and Emotion into the Technology Acceptance Model
+A finite element method for crack growth without remeshing
+Identity Mappings in Deep Residual Networks
+Gene ontology analysis for RNA-seq: accounting for selection bias
+OrthoMCL: Identification of Ortholog Groups for Eukaryotic Genomes
+A General Framework for Analyzing Sustainability of Social-Ecological Systems
+Spurious regressions in econometrics
+Text categorization with Support Vector Machines: Learning with many relevant features
+Social force model for pedestrian dynamics
+Resonance Absorption by Nuclear Magnetic Moments in a Solid
+Elastic Properties of Lipid Bilayers: Theory and Possible Experiments
+Mersenne twister
+An Introduction to the Five‐Factor Model and Its Applications
+Gephi: An Open Source Software for Exploring and Manipulating Networks
+Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching
+Selective Search for Object Recognition
+Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus
+Golden Eggs and Hyperbolic Discounting
+Mathematical Methods of Classical Mechanics
+A Robust, Simple Genotyping-by-Sequencing (GBS) Approach for High Diversity Species
+Thermal properties of graphene and nanostructured carbon materials
+Development of the World Health Organization WHOQOL-BREF Quality of Life Assessment
+Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position
+Saturation in qualitative research: exploring its conceptualization and operationalization
+Extracting and composing robust features with denoising autoencoders
+What's wrong with Bonferroni adjustments
+Survey of Clustering Algorithms
+A fast quantum mechanical algorithm for database search
+Identification of Endogenous Social Effects: The Reflection Problem
+The UK Biobank resource with deep phenotyping and genomic data
+Design and Analysis of Computer Experiments
+BEAST 2: A Software Platform for Bayesian Evolutionary Analysis
+Model Selection and Multimodel Inference: A Practical Information-Theoretic Approach
+The world report on violence and health
+3D Slicer as an image computing platform for the Quantitative Imaging Network
+The Proof and Measurement of Association between Two Things
+A Style-Based Generator Architecture for Generative Adversarial Networks
+Are Government Bonds Net Wealth?
+Die Berechnung optischer und elektrostatischer Gitterpotentiale
+Momentum Contrast for Unsupervised Visual Representation Learning
+Theory of Bose-Einstein condensation in trapped gases
+Extra Precision Glide: Docking and Scoring Incorporating a Model of Hydrophobic Enclosure for Protein−Ligand Complexes
+Extremely randomized trees
+An Inquiry into the Nature and Causes of the Wealth of Nations
+Co3O4 nanocrystals on graphene as a synergistic catalyst for oxygen reduction reaction
+New Developments in Molecular Orbital Theory
+Bose-Einstein Condensation in a Gas of Sodium Atoms
+Emerging applications of stimuli-responsive polymer materials
+Nominal Rigidities and the Dynamic Effects of a Shock to Monetary Policy
+Upper and Lower Probabilities Induced by a Multivalued Mapping
+Risk and protective factors for alcohol and other drug problems in adolescence and early adulthood: Implications for substance abuse prevention.
+The quality of government
+Epidemic Spreading in Scale-Free Networks
+Conversion of 5-Methylcytosine to 5-Hydroxymethylcytosine in Mammalian DNA by MLL Partner TET1
+NONPOINT POLLUTION OF SURFACE WATERS WITH PHOSPHORUS AND NITROGEN
+An analysis of 5'-noncoding sequences from 699 vertebrate messenger RNAs
+A general framework for estimating the relative pathogenicity of human genetic variants
+A review on buildings energy consumption information
+Shape‐Controlled Synthesis of Metal Nanocrystals: Simple Chemistry Meets Complex Physics?
+Probabilistic roadmaps for path planning in high-dimensional configuration spaces
+Increased Survival in Pancreatic Cancer with nab-Paclitaxel plus Gemcitabine
+glmmTMB Balances Speed and Flexibility Among Packages for Zero-inflated Generalized Linear Mixed Modeling
+REVIGO Summarizes and Visualizes Long Lists of Gene Ontology Terms
+Oxygen toxicity, oxygen radicals, transition metals and disease
+Political Science and the Three New Institutionalisms
+Biodiversity loss and its impact on humanity
+The Ensembl Variant Effect Predictor
+Social Relationships and Mortality Risk: A Meta-analytic Review
+Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization
+The SCARE 2020 Guideline: Updating Consensus Surgical CAse REport (SCARE) Guidelines
+Estimating and Testing Linear Models with Multiple Structural Changes
+Categories for the Working Mathematician
+Measurement of cellulase activities
+Turbulence and the dynamics of coherent structures. I. Coherent structures
+Gefitinib or Chemotherapy for Non–Small-Cell Lung Cancer with Mutated EGFR
+The Graph Neural Network Model
+Enrichr: interactive and collaborative HTML5 gene list enrichment analysis tool
+Development of recommendations for SEMG sensors and sensor placement procedures
+3D Convolutional Neural Networks for Human Action Recognition
+The Cognitive Structure of Emotions
+Theory of reproducing kernels
+Lifetime Prevalence of Mental Disorders in U.S. Adolescents: Results from the National Comorbidity Survey Replication–Adolescent Supplement (NCS-A)
+A Model of Growth Through Creative Destruction
+Opinion Mining and Sentiment Analysis
+Fingerprinting genomes using PCR with arbitrary primers
+CRISPR Provides Acquired Resistance Against Viruses in Prokaryotes
+A Singular Value Thresholding Algorithm for Matrix Completion
+Structure of the SARS-CoV-2 spike receptor-binding domain bound to the ACE2 receptor
+Dynamical Model of Elementary Particles Based on an Analogy with Superconductivity. I
+Interpretative strategies for lung function tests
+SeaView Version 4: A Multiplatform Graphical User Interface for Sequence Alignment and Phylogenetic Tree Building
+Accurate Molecular Van Der Waals Interactions from Ground-State Electron Density and Free-Atom Reference Data
+A novel assay for apoptosis Flow cytometric detection of phosphatidylserine expression on early apoptotic cells using fluorescein labelled Annexin V
+Purposeful Sampling for Qualitative Data Collection and Analysis in Mixed Method Implementation Research
+ERC: A Theory of Equity, Reciprocity, and Competition
+The World Health Organization quality of life assessment (WHOQOL): Position paper from the World Health Organization
+EROSIONAL DEVELOPMENT OF STREAMS AND THEIR DRAINAGE BASINS; HYDROPHYSICAL APPROACH TO QUANTITATIVE MORPHOLOGY
+Active appearance models
+Multidrug resistance in cancer: role of ATP–dependent transporters
+Optimization and Approximation in Deterministic Sequencing and Scheduling: a Survey
+Perfect Equilibrium in a Bargaining Model
+Practical methods for incorporating summary time-to-event data into meta-analysis
+Repeated observation of breast tumor subtypes in independent gene expression data sets
+The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application
+Calcium signalling: dynamics, homeostasis and remodelling
+Finding scientific topics
+Dynamic Scaling of Growing Interfaces
+Density-functional method for nonequilibrium electron transport
+Shedding light on the cell biology of extracellular vesicles
+CAP3: A DNA Sequence Assembly Program
+Genome sequence-based species delimitation with confidence intervals and improved distance functions
+Lethality and centrality in protein networks
+Confirmation Bias: A Ubiquitous Phenomenon in Many Guises
+Unicycler: Resolving bacterial genome assemblies from short and long sequencing reads
+Strengthening the reporting of observational studies in epidemiology (STROBE) statement: guidelines for reporting observational studies
+Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project
+Dynamic mapping of human cortical development during childhood through early adulthood
+Model for a Quantum Hall Effect without Landau Levels: Condensed-Matter Realization of the "Parity Anomaly"
+Van der Waals Density Functional for General Geometries
+Energy Band-Gap Engineering of Graphene Nanoribbons
+Optimal approximations by piecewise smooth functions and associated variational problems
+Principles of nanoparticle design for overcoming biological barriers to drug delivery
+The functional anatomy of basal ganglia disorders
+Basic objects in natural categories
+Risk Aversion and Incentive Effects
+2012 Revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides
+Methods for characterization of Streptomyces species
+THE WNT SIGNALING PATHWAY IN DEVELOPMENT AND DISEASE
+Comprehensive molecular characterization of gastric adenocarcinoma
+Investor Psychology and Security Market Under‐ and Overreactions
+Uncovering the overlapping community structure of complex networks in nature and society
+Temperature sensitivity of soil carbon decomposition and feedbacks to climate change
+Neurotoxic reactive astrocytes are induced by activated microglia
+Accelerated Profile HMM Searches
+Cooling, Heating, Generating Power, and Recovering Waste Heat with Thermoelectric Systems
+A scalable content-addressable network
+A theoretical basis for a biopharmaceutic drug classification: the correlation of in vitro drug product dissolution and in vivo bioavailability.
+Role of AMP-activated protein kinase in mechanism of metformin action
+The adolescent brain and age-related behavioral manifestations
+Primary Production of the Biosphere: Integrating Terrestrial and Oceanic Components
+Property Rights and the Nature of the Firm
+Half a century of research on the Stroop effect: An integrative review.
+Coral Reefs Under Rapid Climate Change and Ocean Acidification
+A Scale of Grade and Class Terms for Clastic Sediments
+The DNA-damage response in human biology and disease
+Exact Matrix Completion via Convex Optimization
+New Method for Calculating the One-Particle Green's Function with Application to the Electron-Gas Problem
+A Limited Memory Algorithm for Bound Constrained Optimization
+Bootstrap Methods for Standard Errors, Confidence Intervals, and Other Measures of Statistical Accuracy
+The Effect of Word of Mouth on Sales: Online Book Reviews
+Macrophage plasticity and polarization: in vivo veritas
+The NRAO VLA Sky Survey
+Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials
+The I-TASSER Suite: protein structure and function prediction
+Identity-Based Encryption from the Weil Pairing
+Power laws, Pareto distributions and Zipf's law
+Tight control of gene expression in mammalian cells by tetracycline-responsive promoters.
+Technology Acceptance Model 3 and a Research Agenda on Interventions
+Global prevalence of dementia: a Delphi consensus study
+Public-Key Cryptosystems Based on Composite Degree Residuosity Classes
+Classification of acute pancreatitis—2012: revision of the Atlanta classification and definitions by international consensus
+Ribosomal DNA spacer-length polymorphisms in barley: mendelian inheritance, chromosomal location, and population dynamics.
+Mutational heterogeneity in cancer and the search for new cancer-associated genes
+What Good Are Positive Emotions?
+A frameshift mutation in NOD2 associated with susceptibility to Crohn's disease
+The Ecological Role of Water-Column Microbes in the Sea
+Microalgae for biodiesel production and other applications: A review
+Five Rules for the Evolution of Cooperation
+Data Structures for Statistical Computing in Python
+Rethinking individualism and collectivism: Evaluation of theoretical assumptions and meta-analyses.
+The genomic and transcriptomic architecture of 2,000 breast tumours reveals novel subgroups
+Co-creation experiences: The next practice in value creation
+The complexity of theorem-proving procedures
+UMAP: Uniform Manifold Approximation and Projection
+Large-Scale Video Classification with Convolutional Neural Networks
+An introduction to cybernetics
+Partial Differential Equations
+Thresholding of Statistical Maps in Functional Neuroimaging Using the False Discovery Rate
+Factors associated with COVID-19-related death using OpenSAFELY
+Correspondence of the brain's functional architecture during activation and rest
+Computational thinking
+A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs
+Mechanisms of post-transcriptional regulation by microRNAs: are the answers in sight?
+The Human Microbiome Project
+A relational model of data for large shared data banks
+Mate selection—A selection for a handicap
+Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer
+High-Speed Tracking with Kernelized Correlation Filters
+Minds, brains, and programs

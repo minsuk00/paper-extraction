@@ -2,5 +2,8 @@
     "python.analysis.extraPaths": [
         "./code",
         "./vector_db"
-    ]
+    ],
+    // "editor.wordWrap": "wordWrapColumn",
+    // "editor.wordWrapColumn": 300,
+    // "notebook.output.wordWrap":false,
 }

@@ -1,12 +1,12 @@
 from pyalex import Works
 from langchain.document_loaders import PyPDFLoader
 import os
-from typing import Literal
+from typing import Literal, List
 
 
 def extract_pdf_to_txt(
     url_or_pdf_name: str, filename: str, mode: Literal["local", "online"] = "online"
-) -> None:
+) -> bool:
     """extracts text from pdf and stores in a txt file
 
     Args:
@@ -40,8 +40,10 @@ def extract_pdf_to_txt(
             for page in pages:
                 doc.write(page.page_content)
         print(f"pdf extraction complete. data saved to {filename}")
+        return True
     except:
         print("Error. Could not extract pdf.")
+        return False
 
 
 # Sample doi: https://doi.org/10.48550/arXiv.2308.02510
@@ -86,3 +88,9 @@ def get_string_from_text_file(filename: str = "document") -> str:
         return res
     except:
         print("Error. Could not read file.")
+
+
+def list_to_text_file(target_list: List[str], filename: str):
+    str_data = "\n".join(target_list)
+    with open(filename, "w") as file:
+        file.write(str_data)
