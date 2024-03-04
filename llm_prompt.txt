@@ -3,7 +3,7 @@ Extract sections from the research paper and organize the sections in a JSON for
   - Paper Title
   - List of detected Section Names (no need to be too specific. examples of detected section are: Abstract, Introduction, Method, Discussion)
   - For each "Introduction, Method, Result, Conclusion" sections, include the extracted content in its entirety 
-    (Include the content from start to end of the section, without any abbreviations or "..." for brevity. This should be extracted directly from the paper.)
+    (Include the content "from start to end" of the section, without any abbreviations or "..." for brevity. This should be extracted directly from the paper. It should be quite lengthy.)
     (Here, you only need to extract content for 4 sections: Introduction, Method, Result, Conclusion. Don't extract content for any other sections)
     (If there is no exact match for the name of the section, extract the section most likely to represent that section)
 
