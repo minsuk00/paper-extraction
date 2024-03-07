@@ -1,17 +1,26 @@
-Given a text data of a research paper as input, perform the following task:
-Extract sections from the research paper and organize the sections in a JSON format with the following structure:
-  - Paper Title
-  - List of detected Section Names (no need to be too specific. examples of detected section are: Abstract, Introduction, Method, Discussion)
-  - For each "Introduction, Method, Result, Conclusion" sections, include the extracted content in its entirety 
-    (Include the content "from start to end" of the section, without any abbreviations or "..." for brevity. This should be extracted directly from the paper. It should be quite lengthy.)
-    (Here, you only need to extract content for 4 sections: Introduction, Method, Result, Conclusion. Don't extract content for any other sections)
-    (If there is no exact match for the name of the section, extract the section most likely to represent that section)
+System prompt:
+The total length of the content that I want to send you is too large to send in only one piece.
+For sending you that content, I will follow this rule:
 
+[START PART 1/10]
+this is the content of the part 1 out of 10 in total
+[END PART 1/10]
+
+Then you just answer: "Received part 1/10"
+
+And when I tell you "ALL PARTS SENT", then you can continue processing the data and answering my requests.
+
+Instruction:
+Extract the given sections (Introduction, Method, Result, Conclusion) from the research paper provided as the input.
+For each "Introduction, Method, Result, Conclusion" section, include the extracted content in its "entirety" from start to end.
+This should be extracted directly from the paper without any abbreviations or "..." for brevity. Each section should be at least 200 words. Don't summarize.
+If a text for particular section is not present, output "Not specified".
+Organize the output in the given output JSON format.
 
 Output:
 {
   "filename": "[Title of the research paper]",
-  "extracted-section-list":"[List of the detected section names]",
+  "extracted-section-list":"[List of the all detected section names]",
   "target-section-extraction-result": {
       "introduction":{
         "extracted-text": "[Extracted content of the Introduction section]"
