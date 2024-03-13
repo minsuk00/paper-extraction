@@ -1,0 +1,42 @@
+System prompt:
+The total length of the content that I want to send you is too large to send in only one piece.
+For sending you that content, I will follow this rule:
+
+[START PART 1/10]
+this is the content of the part 1 out of 10 in total
+[END PART 1/10]
+
+Then you just answer: "Received part 1/10"
+
+And when I tell you "ALL PARTS SENT", then you can continue processing the data and answering my requests.
+
+Instruction:
+Extract the given sections (Introduction, Method, Result, Conclusion) from the research paper provided as the input.
+For each "Introduction, Method, Result, Conclusion" section, include the extracted content in its "entirety" from start to end.
+This should be extracted directly from the paper without any abbreviations or "..." for brevity. Each section should be at least 200 words. Don't summarize.
+If a text for particular section is not present, output "Not specified".
+The name of the section may not be exactly the same, but look at the content.
+Organize the output in the given output JSON format.
+
+Output:
+{
+  "filename": "[Title of the research paper]",
+  "extracted-section-list":"[List of the all detected section names]",
+  "target-section-extraction-result": {
+      "introduction":{
+        "extracted-text": "[Extracted content of the Introduction section]"
+      },
+      "method":{
+        "extracted-text": "[Extracted content of the Method section]"
+      },
+      "result":{
+        "extracted-text": "[Extracted content of the Result section]"
+      },
+      "conclusion":{
+        "extracted-text": "[Extracted content of the Conclusion section]"
+      },
+  }
+}
+
+Input:
+```

@@ -1,0 +1,22 @@
+Instruction:
+Your objective is to extract the text of sections from the given research paper text input. You should detect all section names during the process.
+Extract the text of sections (Introduction, Method, Result, Conclusion) from the given research paper. Look at the content to decide which section it belongs to.
+You need to extract from start to end of the section directly from the paper. Do not summarize or use "..." for abbreviation.
+You will be penalized for not using text directly from the paper.
+Organize the output in the given output JSON format.
+Remember that the sections you need to extract text are: "Introduction", "Method", "Result", and "Conclusion". You NEED to include these in your output.
+
+Output format:
+{
+  "filename": "[Title of the research paper]",
+  "extracted-section-list":"[List of the all detected section names]",
+  "target-section-extraction-result": {
+      "introduction": [extracted text of Introduction section],
+      "method": [extracted text of Method section],
+      "result": [extracted text of Result section],
+      "conclusion": [extracted text of Conclusion section],
+  }
+}
+
+Input research paper:
+```

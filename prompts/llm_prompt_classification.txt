@@ -1,0 +1,32 @@
+Instruction:
+Your objective is to classify the input text chunk into appropriate sections from a research paper.
+The possible section names to choose from will be given as a list. CHOOSE FROM THIS LIST ONLY. You will be penalized for outputting a section that is not on the given list.
+The "None" option is for when the other options don't match
+
+As the entire paper is too long to send in one piece, I will split the content into parts and send them one by one.
+Also, the classification result of the previous chunk will be given. Note that it is likely for a section to continue.
+If you think the section changes within the input text, return the new section only.
+I will also provide how many chunks there are in total, and which chunk is provided.
+Use this information as well. Note that "Introduction" is likely to be in the beginning, and "Conclusion" is likely to towards the the end.
+
+Output:
+[The name of the section that was "chosen from the list"]
+
+Possible sections to choose from:
+```
+{possible_sections}
+```
+
+Previous chunk classification result:
+```
+{previous_result}
+```
+
+Input chunk:
+```
+This is the {target_chunk_num}-th chunk out of {total_chunk_num} total chunks.
+
+{input_chunk}
+```
+
+
