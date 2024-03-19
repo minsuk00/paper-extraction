@@ -1,0 +1,29 @@
+```json
+{
+  "filename": "3D Convolutional Neural Networks for Human Action Recognition",
+  "extracted-section-list": [
+    "Introduction",
+    "3D Convolutional Neural Networks",
+    "Related Work",
+    "Experiments",
+    "Conclusions and Discussions"
+  ],
+  "target-section-extraction-result": {
+    "introduction": "Recognizing human actions in real-world environment finds applications in a variety of domains including intelligent video surveillance, customer attributes,
+finish reason: length
+token usageCompletionUsage(completion_tokens=100, prompt_tokens=9332, total_tokens=9432)
+=======================================
+```json
+{
+  "introduction": "Recognizing human actions in real-world environment finds applications in a variety of domains including intelligent video surveillance, customer attributes, and shopping behavior analysis. However, accurate recognition of actions is a highly challenging task due to cluttered backgrounds, occlusions, and viewpoint variations, etc. Therefore, most of the existing approaches make certain assumptions (e.g., small scale and viewpoint changes) about the circumstances under which the video was taken. However, such assumptions seldom hold
+finish reason: length
+token usageCompletionUsage(completion_tokens=100, prompt_tokens=9536, total_tokens=9636)
+=======================================
+in real-world environment. In addition, most of these approaches follow the conventional paradigm of pattern recognition, which consists of two steps in which the first step computes complex handcrafted features from raw video frames and the second step learns classifiers based on the obtained features. In real-world scenarios, it is rarely known which features are important for the task at hand, since the choice of feature is highly problem-dependent. Especially for human action recognition, different action classes may appear dramatically different in terms of their appearances and motion
+finish reason: length
+token usageCompletionUsage(completion_tokens=100, prompt_tokens=9740, total_tokens=9840)
+=======================================
+patterns. Deep learning models are a class of machines that can learn a hierarchy of features by building high-level features from low-level ones, thereby automating the process of feature construction. Such learning machines can be trained using either supervised or unsupervised approaches, and the resulting systems have been shown to yield competitive performance in visual object recognition, natural language processing, and audio classification tasks. The convolutional neural networks (CNNs) are a type of deep models in which trainable filters and local neighborhood pooling operations
+finish reason: length
+token usageCompletionUsage(completion_tokens=100, prompt_tokens=9944, total_tokens=10044)
+=======================================

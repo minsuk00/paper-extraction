@@ -1,4 +1,6 @@
 pdf
-__pycache__
+__pycache__/
 text
 vector_db
+.vscode
+unilex-transcript

@@ -64,7 +64,9 @@ def extract_doi_to_txt(doi: str, filename: str = "document") -> None:
     extract_pdf_to_txt(url, filename=filename)
 
 
-def get_string_from_text_file(filename: str = "document") -> str:
+def get_string_from_text_file(
+    filename: str = "document", verbose: bool = False, full_path: bool = False
+) -> str:
     """read a txt file and returns the string.
 
     Args:
@@ -74,7 +76,7 @@ def get_string_from_text_file(filename: str = "document") -> str:
         str: string of the text file
     """
     filename = filename if filename.endswith(".txt") else filename + ".txt"
-    print(f"reading data from {filename}...")
+    log(verbose, f"reading data from {filename}...")
 
     try:
         filepath = os.path.join(
@@ -82,9 +84,11 @@ def get_string_from_text_file(filename: str = "document") -> str:
             "text",
             filename,
         )
+        if full_path:
+            filepath = filename
         with open(filepath, "r") as file:
             res = file.read()
-        print("string successfully retrieved.\n")
+        log(verbose, "string successfully retrieved.\n")
         return res
     except:
         print("Error. Could not read file.")
@@ -94,3 +98,8 @@ def list_to_text_file(target_list: List[str], filename: str):
     str_data = "\n".join(target_list)
     with open(filename, "w") as file:
         file.write(str_data)
+
+
+def log(verbose: bool, text: str):
+    if verbose:
+        print(text)

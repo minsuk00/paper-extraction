@@ -1,0 +1,25 @@
+```
+{
+  "filename": "Research Paper",
+  "extracted-section-list": ["Introduction", "Method", "Result", "Conclusion"],
+  "target-section-extraction-result": {
+      "introduction": "Introduction text not found.",
+      "method": "Method text not found.",
+      "result": "Result text not found.",
+      "conclusion": "Conclusion text not found."
+  }
+}
+```
+
+finish reason: stop
+token usageCompletionUsage(completion_tokens=85, prompt_tokens=70872, total_tokens=70957)
+=======================================
+
+
+FINAL RESPONSE (84 tokens):
+{   "filename": "Research Paper",   "extracted-section-list": ["Introduction", "Method", "Result", "Conclusion"],   "target-section-extraction-result": {       "introduction": "Introduction text not found.",       "method": "Method text not found.",       "result": "Result text not found.",       "conclusion": "Conclusion text not found."   } }
+
+Total input tokens:70872
+Total output tokens:85
+Is valid JSON:True
+Time elapsed: 32.66855335235596

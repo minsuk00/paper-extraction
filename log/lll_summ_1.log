@@ -1,0 +1,29 @@
+```json
+{
+  "filename": "3D Convolutional Neural Networks for Human Action Recognition",
+  "extracted-section-list": [
+    "Introduction",
+    "3D Convolutional Neural Networks",
+    "Related Work",
+    "Experiments",
+    "Conclusions and Discussions"
+  ],
+  "target-section-extraction-result": {
+    "introduction": "Recognizing human actions in real-world environment finds applications in a variety of domains including intelligent video surveillance, customer attributes,
+length
+CompletionUsage(completion_tokens=100, prompt_tokens=9317, total_tokens=9417)
+=============================and shopping behavior analysis. However, accurate recognition of actions is a highly challenging task due to cluttered backgrounds, occlusions, and viewpoint variations, etc. Therefore, most of the existing approaches make certain assumptions (e.g., small scale and viewpoint changes) about the circumstances under which the video was taken. However, such assumptions seldom hold in real-world environment. In addition, most of these approaches follow the conventional paradigm of pattern recognition, which consists of two steps in which the first step computes complex hand
+length
+CompletionUsage(completion_tokens=100, prompt_tokens=9501, total_tokens=9601)
+=============================crafted features from raw video frames and the second step learns classifiers based on the obtained features. In real-world scenarios, it is rarely known which features are important for the task at hand, since the choice of feature is highly problem-dependent. Especially for human action recognition, different action classes may appear dramatically different in terms of their appearances and motion patterns.",
+
+"method": "In 2D CNNs, 2D convolution is performed at the convolutional layers to extract features from local neighborhood on feature
+length
+CompletionUsage(completion_tokens=100, prompt_tokens=9685, total_tokens=9785)
+=============================maps in the previous layer. Then an additive bias is applied and the result is passed through a sigmoid function. Formally, the value of unit at position (x, y) in the jth feature map in the ith layer, denoted as vxyij, is given by vxyij= tanh(bij+∑mPi−1∑p=0Qi−1∑q=0wpqijmv(x+p)(y+q)(i−1)m
+length
+CompletionUsage(completion_tokens=100, prompt_tokens=9869, total_tokens=9969)
+=============================), where tanh(·) is the hyperbolic tangent function, bij is the bias for this feature map, m indexes over the set of feature maps in the (i−1)th layer connected to the current feature map, wpqijk is the value at the position (p, q) of the kernel connected to the kth feature map, and Pi and Qi are the height and width of the kernel, respectively. In the subsampling layers, the resolution of the feature maps
+length
+CompletionUsage(completion_tokens=100, prompt_tokens=10053, total_tokens=10153)
+=============================

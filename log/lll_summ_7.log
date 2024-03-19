@@ -1,0 +1,13 @@
+```json
+{
+  "filename": "3D Convolutional Neural Networks for Human Action Recognition",
+  "extracted-section-list": ["Introduction", "3D Convolutional Neural Networks", "Related Work", "Experiments", "Conclusions and Discussions"],
+  "target-section-extraction-result": {
+      "introduction": "Recognizing human actions in real-world environment finds applications in a variety of domains including intelligent video surveillance, customer attributes, and shopping behavior analysis. However, accurate
+finish reason: length
+token usageCompletionUsage(completion_tokens=100, prompt_tokens=9332, total_tokens=9432)
+=======================================
+recognition of actions is a highly challenging task due to cluttered backgrounds, occlusions, and viewpoint variations, etc. Therefore, most of the existing approaches make certain assumptions (e.g., small scale and viewpoint changes) about the circumstances under which the video was taken. However, such assumptions seldom hold in real-world environment. In addition, most of these approaches follow the conventional paradigm of pattern recognition, which consists of two steps in which the first step computes complex handcrafted features from raw video frames and
+finish reason: length
+token usageCompletionUsage(completion_tokens=100, prompt_tokens=9536, total_tokens=9636)
+=======================================

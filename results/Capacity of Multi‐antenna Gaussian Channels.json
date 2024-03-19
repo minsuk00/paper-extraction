@@ -1,0 +1,1 @@
+{   "filename": "Research Paper",   "extracted-section-list": ["Introduction", "Method", "Result", "Conclusion"],   "target-section-extraction-result": {       "introduction": "Introduction text not found.",       "method": "Method text not found.",       "result": "Result text not found.",       "conclusion": "Conclusion text not found."   } }
