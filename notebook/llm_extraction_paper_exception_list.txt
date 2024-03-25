@@ -1,1 +1,50 @@
+A frameshift mutation in NOD2 associated with susceptibility to Crohn's disease.txt
+Updated world map of the Köppen-Geiger climate classification.txt
+A safe operating space for humanity.txt
 Mutation in the α-Synuclein Gene Identified in Families with Parkinson's Disease.txt
+Capacity of Multi‐antenna Gaussian Channels.txt
+Instrumental Variables Regression with Weak Instruments.txt
+A Self-Rating Depression Scale.txt
+The representative concentration pathways: an overview.txt
+Random effects structure for confirmatory hypothesis testing: Keep it maximal.txt
+Homeostasis model assessment: insulin resistance and ?-cell function from fasting plasma glucose and insulin concentrations in man.txt
+Gene expression profiling predicts clinical outcome of breast cancer.txt
+A comparison of methods to test mediation and other intervening variable effects..txt
+Opinion Mining and Sentiment Analysis.txt
+Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation.txt
+Term-weighting approaches in automatic text retrieval.txt
+Technology Acceptance Model 3 and a Research Agenda on Interventions.txt
+Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization.txt
+The Graph Neural Network Model.txt
+The human brain is intrinsically organized into dynamic, anticorrelated functional networks.txt
+AFLP: a new technique for DNA fingerprinting.txt
+Tight blood pressure control and risk of macrovascular and microvascular complications in type 2 diabetes: UKPDS 38.txt
+Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer.txt
+DNA methylation patterns and epigenetic memory.txt
+General Theory of Three-Dimensional Consolidation.txt
+The Elements of Statistical Learning.txt
+Orthonormal bases of compactly supported wavelets.txt
+Diamond-like amorphous carbon.txt
+Decoding by Linear Programming.txt
+Most mammalian mRNAs are conserved targets of microRNAs.txt
+Transformation of the Nitrogen Cycle: Recent Trends, Questions, and Potential Solutions.txt
+Cytoscape: A Software Environment for Integrated Models of Biomolecular Interaction Networks.txt
+A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix.txt
+Ground State of the Electron Gas by a Stochastic Method.txt
+Political Science and the Three New Institutionalisms.txt
+Mathematical Methods of Classical Mechanics.txt
+Fast and robust fixed-point algorithms for independent component analysis.txt
+Five Misunderstandings About Case-Study Research.txt
+Association of glycaemia with macrovascular and microvascular complications of type 2 diabetes (UKPDS 35): prospective observational study.txt
+Learning Deep Features for Discriminative Localization.txt
+Telling more than we can know: Verbal reports on mental processes..txt
+The Benefits of Frequent Positive Affect: Does Happiness Lead to Success?.txt
+The Health Belief Model: A Decade Later.txt
+REVIGO Summarizes and Visualizes Long Lists of Gene Ontology Terms.txt
+Translating the Histone Code.txt
+Quantum Spin Hall Effect and Topological Phase Transition in HgTe Quantum Wells.txt
+Thumbs up?.txt
+Speech recognition with deep recurrent neural networks.txt
+UMAP: Uniform Manifold Approximation and Projection.txt
+Independent component analysis: algorithms and applications.txt
+Integrating single-cell transcriptomic data across different conditions, technologies, and species.txt

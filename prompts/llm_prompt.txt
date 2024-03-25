@@ -3,12 +3,7 @@ Your objective is to extract the text of sections from the given research paper 
 
 Extract the text of sections (Introduction, Method, Result, Conclusion) from the given research paper. Look at the content to decide which section it belongs to.
 You need to extract the FULL TEXT FROM START TO END OF THE SECTION directly from the paper. Do not summarize or use "..." for abbreviation. You will be penalized for not using text directly from the paper.
-Try to capture the whole section. For reference, each section, on average, has the following length.
-Introduction: 3 paragraphs (500 words or 650 tokens)
-Method: 10 paragraphs (1100 words 1500 tokens)
-Results: 9 paragraphs (900 words 1200 tokens)
-Conclusion: 1 paragraphs (150 words 200 tokens)
-(Note that you need to include all subsections within a section. e.g. "2.Method" section includes "2.1" and "2.2" subsections)
+Try to capture the whole section. Note that this may be quite lengthy. For reference, each section, may reach over 2000 tokens.(Note that you need to include all subsections within a section. e.g. "2.Method" section includes "2.1" and "2.2" subsections)
 
 Organize the output in the given output JSON format.
 Remember that the sections you need to extract text are: "Introduction", "Method", "Result", and "Conclusion". You NEED to include these in your output.
