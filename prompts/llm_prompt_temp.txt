@@ -13,7 +13,7 @@ And when I tell you "ALL PARTS SENT", then you can continue processing the data 
 Instruction:
 Extract the given sections (Introduction, Method, Result, Conclusion) from the research paper provided as the input.
 For each "Introduction, Method, Result, Conclusion" section, include the extracted content in its "entirety" from start to end.
-This should be extracted directly from the paper without any abbreviations or "..." for brevity. Each section should be at least 200 words. Don't summarize.
+This should be extracted directly from the paper without any abbreviations or "..." for brevity. Don't summarize.
 If a text for particular section is not present, output "Not specified".
 Organize the output in the given output JSON format.
 
